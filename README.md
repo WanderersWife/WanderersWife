@@ -10,6 +10,12 @@
  ${\textsf{\color{#87CEEB}"Have I told you lately I'm grateful you're mine ?"}}$
 </p>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1D59F7&width=435&lines=Sweet+tooth+for+you..;I'm+wide+awake..;The+sugar+went+straight+to+my+brain..;Feel+like+a+kid..+It's+cardiac..;A+safety+pin...;I+like+you...;Say+it+back+%3C3)](https://git.io/typing-svg)
+
+<p align="right">
+  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FWanderersWife&label=Travelers&labelColor=%230047ab&countColor=%234169e1"/>
+</p>
+
 <p align="center">
   <img src="https://github.com/WanderersWife/WanderersWife/blob/d38c7f28cef1d703cb48f2d0078f8b47ce85881e/tumblr_101ec9448ed3e3dcde6b754685a12c09_4ce83104_1280.gif.webp"/>
 </p>
