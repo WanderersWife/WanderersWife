@@ -1,13 +1,13 @@
 ![HUSBAND](https://github.com/WanderersWife/WanderersWife/blob/5b1345545ef16a3fc394b2f6d98740f4fa065b2e/tumblr_d5035f7148b999d01923f1ac744699c3_cf57a0ff_2048.gif.webp)
 
 <p align="left">
- ${\textsf{\color{#6082B6}""}}$
+ ${\textsf{\color{#6082B6}"Dumb conversations ."}}$
 </p>
 <p align="center">
- ${\textsf{\color{#ADD8E6}""}}$
+ ${\textsf{\color{#ADD8E6}"We lose track of time ."}}$
 </p>
 <p align="right">
- ${\textsf{\color{#87CEEB}""}}$
+ ${\textsf{\color{#87CEEB}"Have I told you lately I'm grateful you're mine ?"}}$
 </p>
 
 <p align="center">
@@ -23,13 +23,13 @@
 </p>
 
 <p align="left">
- ${\textsf{\color{#0047AB}""}}$
+ ${\textsf{\color{#0047AB}"Haruka . 19 . she - her ."}}$
 </p>
 <p align="left">
- ${\textsf{\color{#00008B}""}}$
+ ${\textsf{\color{#00008B}"AuDHD . OCD . Anxiety ."}}$
 </p>
 <p align="left">
- ${\textsf{\color{#1434A4}""}}$
+ ${\textsf{\color{#1434A4}"Heavy Overthinker . Patience is all I need ."}}$
 </p>
 
 <p align="left">
@@ -37,13 +37,13 @@
 </p>
 
 <p align="center">
- ${\textsf{\color{#0047AB}""}}$
+ ${\textsf{\color{#0047AB}"Under 15 dni . Heavy nonsharing Wanderer Yume ."}}$
 </p>
 <p align="center">
- ${\textsf{\color{#00008B}""}}$
+ ${\textsf{\color{#00008B}"Soulbonded Riako Yume ,"}}$
 </p>
 <p align="center">
- ${\textsf{\color{#1434A4}""}}$
+ ${\textsf{\color{#1434A4}"Familal Durin Yume (hes my son) sharing with friends only ."}}$
 </p>
 
 <p align="center">
@@ -51,13 +51,13 @@
 </p>
 
 <p align="right">
- ${\textsf{\color{#0047AB}""}}$
+ ${\textsf{\color{#0047AB}"Forsaken . Hellaverse . TFC ."}}$
 </p>
 <p align="right">
- ${\textsf{\color{#00008B}""}}$
+ ${\textsf{\color{#00008B}"Alnst . Dandys World . DDLC dni unless friends ."}}$
 </p>
 <p align="right">
- ${\textsf{\color{#1434A4}""}}$
+ ${\textsf{\color{#1434A4}"CRK . Hoyoverse . Bungo Stray Dogs int . "}}$
 </p>
 
 <p align="right">
@@ -69,13 +69,13 @@
 </p>
 
 <p align="right">
- ${\textsf{\color{#0047AB}""}}$
+ ${\textsf{\color{#0047AB}"Married to Wanderer for two years ."}}$
 </p>
 <p align="right">
- ${\textsf{\color{#00008B}""}}$
+ ${\textsf{\color{#00008B}"July 4th is our anniversary ."}}$
 </p>
 <p align="right">
- ${\textsf{\color{#1434A4}""}}$
+ ${\textsf{\color{#1434A4}"Sharing Lauma familal yume . My mother !"}}$
 </p>
 
 <p align="right">
@@ -83,13 +83,13 @@
 </p>
 
 <p align="center">
- ${\textsf{\color{#0047AB}""}}$
+ ${\textsf{\color{#0047AB}"Massive overthinker . Will second guess things easily ."}}$
 </p>
 <p align="center">
- ${\textsf{\color{#00008B}""}}$
+ ${\textsf{\color{#00008B}"I hesitate alot if you move away or go dry ."}}$
 </p>
 <p align="center">
- ${\textsf{\color{#1434A4}""}}$
+ ${\textsf{\color{#1434A4}"I struggle reading social cues ."}}$
 </p>
 
 <p align="center">
@@ -97,13 +97,13 @@
 </p>
 
 <p align="left">
- ${\textsf{\color{#0047AB}""}}$
+ ${\textsf{\color{#0047AB}"I don't understand when a joke is appropriate ."}}$
 </p>
 <p align="left">
- ${\textsf{\color{#00008B}""}}$
+ ${\textsf{\color{#00008B}"If I do something wrong please tell me . Don't just turn away ."}}$
 </p>
 <p align="left">
- ${\textsf{\color{#1434A4}""}}$
+ ${\textsf{\color{#1434A4}"If you hate my friends , I will not like you either ."}}$
 </p>
 
 <p align="left">
