@@ -25,6 +25,12 @@
 <p align="center">
  ${\textsf{\color{#F0FFFF}"PLEASE DO NOT HARASS ME. F OFF IF YOU PLAN TO HARASS ME."}}$
 </p>
+<p align="center">
+ ${\textsf{\color{#F0FFFF}"PLEASE I GET THREATS N HARASSMENT FOR BEING NONSHARING."}}$
+</p>
+<p align="center">
+ ${\textsf{\color{#F0FFFF}"Once again, KINDLY F off and block me if you plan to harass me. ty."}}$
+</p>
 
 <p align="center">
   <img src="https://github.com/WanderersWife/WanderersWife/blob/d38c7f28cef1d703cb48f2d0078f8b47ce85881e/tumblr_101ec9448ed3e3dcde6b754685a12c09_4ce83104_1280.gif.webp"/>
