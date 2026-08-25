@@ -17,6 +17,16 @@
 </p>
 
 <p align="center">
+ ${\textsf{\color{#F0FFFF}"A REMINDER TO WANDERER DOUBLES TO DNI!!!"}}$
+</p>
+<p align="center">
+ ${\textsf{\color{#F0FFFF}"I USE YUMESHIPPING AS A COPE. IT HAS SAVED MY LIFE."}}$
+</p>
+<p align="center">
+ ${\textsf{\color{#F0FFFF}"PLEASE DO NOT HARASS ME. F OFF IF YOU PLAN TO HARASS ME."}}$
+</p>
+
+<p align="center">
   <img src="https://github.com/WanderersWife/WanderersWife/blob/d38c7f28cef1d703cb48f2d0078f8b47ce85881e/tumblr_101ec9448ed3e3dcde6b754685a12c09_4ce83104_1280.gif.webp"/>
 </p>
 
