@@ -20,16 +20,25 @@
  ${\textsf{\color{#F0FFFF}"A REMINDER TO WANDERER DOUBLES TO DNI!!!"}}$
 </p>
 <p align="center">
- ${\textsf{\color{#F0FFFF}"I USE YUMESHIPPING AS A COPE. IT HAS SAVED MY LIFE."}}$
+ ${\textsf{\color{#F0FFFF}"I yumeship as a COPING MECHANISM."}}$
 </p>
 <p align="center">
- ${\textsf{\color{#F0FFFF}"PLEASE DO NOT HARASS ME. F OFF IF YOU PLAN TO HARASS ME."}}$
+ ${\textsf{\color{#F0FFFF}"Yumeshipping with Wanderer has saved my life."}}$
 </p>
 <p align="center">
- ${\textsf{\color{#F0FFFF}"PLEASE I GET THREATS N HARASSMENT FOR BEING NONSHARING."}}$
+ ${\textsf{\color{#F0FFFF}"This is why he is so personal to me."}}$
 </p>
 <p align="center">
- ${\textsf{\color{#F0FFFF}"Once again, KINDLY F off and block me if you plan to harass me. ty."}}$
+ ${\textsf{\color{#F0FFFF}"I get NUMEROUS threats and harassment for my sharing status."}}$
+</p>
+<p align="center">
+ ${\textsf{\color{#F0FFFF}"I am not delusional, I am not braindead."}}$
+</p>
+<p align="center">
+ ${\textsf{\color{#F0FFFF}"Just a mentally unstable 19 year old who needs a way to cope."}}$
+</p>
+<p align="center">
+ ${\textsf{\color{#F0FFFF}"If you plan to harass me, insult me, or get in my face, kindly f off. ty. <3"}}$
 </p>
 
 <p align="center">
