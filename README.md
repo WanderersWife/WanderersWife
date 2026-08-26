@@ -17,7 +17,10 @@
 </p>
 
 <p align="center">
- ${\textsf{\color{#F0FFFF}"A REMINDER TO WANDERER DOUBLES TO DNI!!!"}}$
+ ${\textsf{\color{#F0FFFF}"Voidsharing Wanderer yume!"}}$
+</p>
+<p align="center">
+ ${\textsf{\color{#F0FFFF}"Despite being voidsharing, I do not harass anyone."}}$
 </p>
 <p align="center">
  ${\textsf{\color{#F0FFFF}"I yumeship as a COPING MECHANISM."}}$
@@ -72,7 +75,7 @@
 </p>
 
 <p align="center">
- ${\textsf{\color{#0047AB}"Under 15 dni . Heavy nonsharing Wanderer Yume ."}}$
+ ${\textsf{\color{#0047AB}"Under 15 dni . Voidsharing Wanderer Yume ."}}$
 </p>
 <p align="center">
  ${\textsf{\color{#00008B}"Soulbonded Riako Yume ,"}}$
