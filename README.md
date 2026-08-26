@@ -44,6 +44,10 @@
   <img width="1000" src="https://github.com/WanderersWife/WanderersWife/blob/d38c7f28cef1d703cb48f2d0078f8b47ce85881e/tumblr_4f312e443add2568ad8883081390777c_4a0a50db_640.gif">
 </p>
 
+<p align="center">
+ ${\textsf{\color{#F0FFFF}"Genshin fans int I beg...I need genshin fan friends...."}}$
+</p>
+
 <p align="left">
  ${\textsf{\color{#0047AB}"Haruka . 19 . she - her ."}}$
 </p>
