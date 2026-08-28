@@ -57,6 +57,19 @@
 </p>
 
 <p align="center">
+ ${\textsf{\color{#F0FFFF}"Warning, I get very stressed easily."}}$
+</p>
+<p align="center">
+ ${\textsf{\color{#F0FFFF}"I especially get stressed when it comes to arguements."}}$
+</p>
+<p align="center">
+ ${\textsf{\color{#F0FFFF}"If I see or am in a fight / arguement, I get confused and overwhelmed"}}$
+</p>
+<p align="center">
+ ${\textsf{\color{#F0FFFF}"Please be patient with me."}}$
+</p>
+
+<p align="center">
  ${\textsf{\color{#F0FFFF}"Genshin fans int I beg...I need genshin fan friends...."}}$
 </p>
 
