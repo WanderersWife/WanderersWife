@@ -20,28 +20,46 @@
  ${\textsf{\color{#F0FFFF}"Voidsharing Wanderer yume!"}}$
 </p>
 <p align="center">
- ${\textsf{\color{#F0FFFF}"Despite being voidsharing, I do not harass anyone."}}$
+ ${\textsf{\color{#F0FFFF}"Voidsharing, but I don't harass anyone."}}$
 </p>
 <p align="center">
- ${\textsf{\color{#F0FFFF}"I yumeship as a COPING MECHANISM."}}$
+ ${\textsf{\color{#F0FFFF}"I yumeship to cope, and its saved my life."}}$
 </p>
 <p align="center">
- ${\textsf{\color{#F0FFFF}"Yumeshipping with Wanderer has saved my life."}}$
+ ${\textsf{\color{#F0FFFF}"Wanderer is very personal to me, understand that please."}}$
 </p>
 <p align="center">
- ${\textsf{\color{#F0FFFF}"This is why he is so personal to me."}}$
+ ${\textsf{\color{#F0FFFF}"I get numerous threats and harassment, I am not braindead."}}$
 </p>
 <p align="center">
- ${\textsf{\color{#F0FFFF}"I get NUMEROUS threats and harassment for my sharing status."}}$
+ ${\textsf{\color{#F0FFFF}"Just a mentally unstable 19 year old woman who feels safer with wanderer instead of home."}}$
 </p>
 <p align="center">
- ${\textsf{\color{#F0FFFF}"I am not delusional, I am not braindead."}}$
+ ${\textsf{\color{#F0FFFF}"There are times If I feel stressed or unsafe, I will hide and isolate."}}$
 </p>
 <p align="center">
- ${\textsf{\color{#F0FFFF}"Just a mentally unstable 19 year old who needs a way to cope."}}$
+ ${\textsf{\color{#F0FFFF}"It's hard to explain, but it's sort of like a daydreaming state."}}$
 </p>
 <p align="center">
- ${\textsf{\color{#F0FFFF}"If you plan to harass me, insult me, or get in my face, kindly f off. ty. <3"}}$
+ ${\textsf{\color{#F0FFFF}"This means I am resting, unable to talk to you, and I am currently hiding in my own mind."}}$
+</p>
+<p align="center">
+ ${\textsf{\color{#F0FFFF}"In a sort of mediation like way, I'll be imagining I am in sumeru, or in Wanderers arms."}}$
+</p>
+<p align="center">
+ ${\textsf{\color{#F0FFFF}"This is another way I cope, and it's a safe haevn for me. Please understand that."}}$
+</p>
+<p align="center">
+ ${\textsf{\color{#F0FFFF}"Another thing. I get stressed far too easily."}}$
+</p>
+<p align="center">
+ ${\textsf{\color{#F0FFFF}"I especially get stressed when it comes to arguements."}}$
+</p>
+<p align="center">
+ ${\textsf{\color{#F0FFFF}"If I see or am in a fight / arguement, I get confused and overwhelmed"}}$
+</p>
+<p align="center">
+ ${\textsf{\color{#F0FFFF}"Please be patient with me."}}$
 </p>
 
 <p align="center">
@@ -70,7 +88,7 @@
 </p>
 
 <p align="center">
- ${\textsf{\color{#F0FFFF}"Genshin fans int I beg...I need genshin fan friends...."}}$
+ ${\textsf{\color{{#0047AB}"Genshin fans int I beg...I need genshin fan friends...."}}$
 </p>
 
 <p align="left">
