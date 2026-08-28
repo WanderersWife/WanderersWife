@@ -44,7 +44,7 @@
  ${\textsf{\color{#F0FFFF}"This means I am resting, unable to talk to you, and I am currently hiding in my own mind."}}$
 </p>
 <p align="center">
- ${\textsf{\color{#00FFFF}"In a sort of mediation like way, I'll be imagining I am in sumeru, or in Wanderers arms."}}$
+ ${\textsf{\color{#00FFFF}"It's like dissocoiation, I'll be imagining I am in sumeru, or in Wanderers arms."}}$
 </p>
 <p align="center">
  ${\textsf{\color{#6495ED}"This is another way I cope, and it's a safe haevn for me. Please understand that."}}$
