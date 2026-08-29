@@ -88,7 +88,7 @@
 </p>
 
 <p align="center">
- ${\textsf{\color{{#0047AB}"Genshin fans int I beg...I need genshin fan friends...."}}$
+ ${\textsf{\color{#F0FFFF}"Other than that..GENSHIN FANS INT I BEGGG"}}$
 </p>
 
 <p align="left">
