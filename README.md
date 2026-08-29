@@ -120,7 +120,7 @@
 </p>
 
 <p align="right">
- ${\textsf{\color{#0047AB}"Forsaken . Hellaverse . TFC ."}}$
+ ${\textsf{\color{#0047AB}"Forsaken . Hellaverse . TFC dni ."}}$
 </p>
 <p align="right">
  ${\textsf{\color{#00008B}"Alnst . Dandys World . DDLC dni unless friends ."}}$
