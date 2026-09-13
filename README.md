@@ -98,7 +98,7 @@
  ${\textsf{\color{#00008B}"AuDHD . OCD . Anxiety ."}}$
 </p>
 <p align="left">
- ${\textsf{\color{#1434A4}"Heavy Overthinker . Patience is all I need ."}}$
+ ${\textsf{\color{#1434A4}"Heavy Overthinker . Aroace ."}}$
 </p>
 
 <p align="left">
