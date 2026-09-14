@@ -92,7 +92,7 @@
 </p>
 
 <p align="left">
- ${\textsf{\color{#0047AB}"Haruka . 20 . she - her ."}}$
+ ${\textsf{\color{#0047AB}"Haru . Bassie . Flutter . Mangle . 20 ."}}$
 </p>
 <p align="left">
  ${\textsf{\color{#00008B}"AuDHD . OCD . Anxiety ."}}$
