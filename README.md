@@ -74,23 +74,6 @@
   <img width="1000" src="https://github.com/WanderersWife/WanderersWife/blob/d38c7f28cef1d703cb48f2d0078f8b47ce85881e/tumblr_4f312e443add2568ad8883081390777c_4a0a50db_640.gif">
 </p>
 
-<p align="center">
- ${\textsf{\color{#F0FFFF}"Warning, I get very stressed easily."}}$
-</p>
-<p align="center">
- ${\textsf{\color{#F0FFFF}"I especially get stressed when it comes to arguements."}}$
-</p>
-<p align="center">
- ${\textsf{\color{#F0FFFF}"If I see or am in a fight / arguement, I get confused and overwhelmed"}}$
-</p>
-<p align="center">
- ${\textsf{\color{#F0FFFF}"Please be patient with me."}}$
-</p>
-
-<p align="center">
- ${\textsf{\color{#F0FFFF}"Other than that..GENSHIN FANS INT I BEGGG"}}$
-</p>
-
 <p align="left">
  ${\textsf{\color{#0047AB}"Haru . Bassie . Flutter . Mangle . 20 ."}}$
 </p>
