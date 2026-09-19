@@ -75,7 +75,7 @@
 </p>
 
 <p align="left">
- ${\textsf{\color{#0047AB}"Haru . Bassie . Flutter . Mangle . 20 ."}}$
+ ${\textsf{\color{#0047AB}"Haru . Bassie . Varesa . Mangle . 20 ."}}$
 </p>
 <p align="left">
  ${\textsf{\color{#00008B}"AuDHD . OCD . Anxiety ."}}$
