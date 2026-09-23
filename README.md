@@ -1,9 +1,5 @@
 ![HUSBAND](https://github.com/WanderersWife/WanderersWife/blob/5b1345545ef16a3fc394b2f6d98740f4fa065b2e/tumblr_d5035f7148b999d01923f1ac744699c3_cf57a0ff_2048.gif.webp)
 
-<p align="center">
-  <img width="700" src="https://github.com/WanderersWife/WanderersWife/blob/197b1066d73a081344dd71d0703a745c9784928c/tumblr_92e847c6dd19d5795c4e75de98dc90d1_8c35bc62_1280.png">
-</p>
-
 <p align="left">
  ${\textsf{\color{#6082B6}"Dumb conversations ."}}$
 </p>
