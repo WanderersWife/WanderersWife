@@ -36,10 +36,10 @@
  ${\textsf{\color{#6082B6}Call me Haru! I'm 20, she/her/hers, and Aroace!}}$
 </p>
 <p align="center">
- ${\textsf{\color{#ADD8E6}Sharing only with friends Durin family yume! Sharing Lauma family yume!}}$
+ ${\textsf{\color{#ADD8E6}Voidsharing Soulbonded Riako Wanderer Yume!}}$
 </p>
 <p align="center">
- ${\textsf{\color{#87CEEB}VOIDSHARING Soulbonded Riako Wanderer yume. Do not harass me, yumeshipping with him has saved my life.}}$
+ ${\textsf{\color{#87CEEB}I DON'T Harass people. Don't harass me. Yumeshipping w him saved my life!}}$
 </p>
 
 <p align="center">
