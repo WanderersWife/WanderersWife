@@ -13,15 +13,11 @@
 </p>
 
 <p align="center">
-  <img width="200" src="https://github.com/WanderersWife/WanderersWife/blob/197b1066d73a081344dd71d0703a745c9784928c/tumblr_c606d15c1121c3b63eadbc7da50609fe_69342419_400.png">
+  <img width="300" src="https://github.com/WanderersWife/WanderersWife/blob/197b1066d73a081344dd71d0703a745c9784928c/tumblr_c606d15c1121c3b63eadbc7da50609fe_69342419_400.png">
 </p>
 
 <p align="center">
-  <img width="300" src="https://github.com/WanderersWife/WanderersWife/blob/197b1066d73a081344dd71d0703a745c9784928c/a6aa5c6af401c75360acdf764bbbc8b247441c07.gifv.gif">
-</p>
-
-<p align="center">
-  <img width="200" src="https://github.com/WanderersWife/WanderersWife/blob/197b1066d73a081344dd71d0703a745c9784928c/tumblr_101ec9448ed3e3dcde6b754685a12c09_4ce83104_1280.gif.webp">
+  <img width="300" src="https://github.com/WanderersWife/WanderersWife/blob/197b1066d73a081344dd71d0703a745c9784928c/tumblr_101ec9448ed3e3dcde6b754685a12c09_4ce83104_1280.gif.webp">
 </p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1D59F7&width=435&lines=Sweet+tooth+for+you..;I'm+wide+awake..;The+sugar+went+straight+to+my+brain..;Feel+like+a+kid..+It's+cardiac..;A+safety+pin...;I+like+you...;Say+it+back+%3C3)](https://git.io/typing-svg)
@@ -59,7 +55,7 @@
 </p>
 
 <p align="center">
-  <img width="200" src="https://github.com/WanderersWife/WanderersWife/blob/197b1066d73a081344dd71d0703a745c9784928c/tumblr_b153d1a3ba20565592e96a9cefe62ca7_8dd7e9d6_1280.png">
+  <img width="200" src="https://github.com/WanderersWife/WanderersWife/blob/197b1066d73a081344dd71d0703a745c9784928c/a6aa5c6af401c75360acdf764bbbc8b247441c07.gifv.gif">
 </p>
 
 <p align="center">
