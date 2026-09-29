@@ -2,6 +2,26 @@
   <img width="700" src="https://github.com/WanderersWife/WanderersWife/blob/5b1345545ef16a3fc394b2f6d98740f4fa065b2e/tumblr_d5035f7148b999d01923f1ac744699c3_cf57a0ff_2048.gif.webp">
 </p>
 
+<p align="center">
+ ${\textsf{\color{#40E0D0}"Just a heads up! I block freely!"}}$
+</p>
+<p align="center">
+ ${\textsf{\color{#40B5AD}"If I block you, most of the time it isnt personal!"}}$
+</p>
+<p align="center">
+ ${\textsf{\color{#9FE2BF}"It may be because you fit my dni criteria."}}$
+</p>
+<p align="center">
+ ${\textsf{\color{#96DED1}"Specifically if you yumeship with Wanderer."}}$
+</p>
+<p align="center">
+ ${\textsf{\color{#F0FFFF}"Don't take it to heart, it's my boundaries!"}}$
+</p>
+
+<p align="center">
+  <img width="300" src="https://github.com/WanderersWife/WanderersWife/blob/197b1066d73a081344dd71d0703a745c9784928c/tumblr_c606d15c1121c3b63eadbc7da50609fe_69342419_400.png">
+</p>
+
 <p align="left">
  ${\textsf{\color{#6082B6}"Dumb conversations ."}}$
 </p>
@@ -10,10 +30,6 @@
 </p>
 <p align="right">
  ${\textsf{\color{#87CEEB}"Have I told you lately I'm grateful you're mine ?"}}$
-</p>
-
-<p align="center">
-  <img width="300" src="https://github.com/WanderersWife/WanderersWife/blob/197b1066d73a081344dd71d0703a745c9784928c/tumblr_c606d15c1121c3b63eadbc7da50609fe_69342419_400.png">
 </p>
 
 <p align="center">
