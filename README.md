@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-  <img width="300" src="https://github.com/WanderersWife/WanderersWife/blob/de2b7187a66af4377237304d8edd7cf403578896/tumblr_a29b144e4a59f54ac99bf20b18c7725f_2f867d1f_400.png">
+  <img width="300" src="https://github.com/WanderersWife/WanderersWife/blob/de2b7187a66af4377237304d8edd7cf403578896/tumblr_b9b4f947446d5aad611e4e0f0bc2a2d2_caf8afbe_540.jpg">
 </p>
 
 <p align="left">
@@ -33,7 +33,7 @@
 </p>
 
 <p align="center">
-  <img width="300" src="https://github.com/WanderersWife/WanderersWife/blob/de2b7187a66af4377237304d8edd7cf403578896/tumblr_b9b4f947446d5aad611e4e0f0bc2a2d2_caf8afbe_540.jpg">
+  <img width="300" src="https://github.com/WanderersWife/WanderersWife/blob/de2b7187a66af4377237304d8edd7cf403578896/tumblr_a29b144e4a59f54ac99bf20b18c7725f_2f867d1f_400.png">
 </p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1D59F7&width=435&lines=Sweet+tooth+for+you..;I'm+wide+awake..;The+sugar+went+straight+to+my+brain..;Feel+like+a+kid..+It's+cardiac..;A+safety+pin...;I+like+you...;Say+it+back+%3C3)](https://git.io/typing-svg)
