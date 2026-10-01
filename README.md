@@ -6,13 +6,13 @@
  ${\textsf{\color{#FF3131}"Just a heads up! I block freely!"}}$
 </p>
 <p align="center">
- ${\textsf{\color{#}"If I block you, most of the time it isnt personal!"}}$
+ ${\textsf{\color{#880808}"If I block you, most of the time it isnt personal!"}}$
 </p>
 <p align="center">
  ${\textsf{\color{#FF3131}"It may be because you fit my dni criteria."}}$
 </p>
 <p align="center">
- ${\textsf{\color{#}"Specifically if you yumeship with Wanderer."}}$
+ ${\textsf{\color{#880808}"Specifically if you yumeship with Wanderer."}}$
 </p>
 <p align="center">
  ${\textsf{\color{#FF3131}"Don't take it to heart, it's my boundaries!"}}$
