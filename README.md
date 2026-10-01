@@ -36,7 +36,7 @@
   <img width="300" src="https://github.com/WanderersWife/WanderersWife/blob/de2b7187a66af4377237304d8edd7cf403578896/tumblr_a29b144e4a59f54ac99bf20b18c7725f_2f867d1f_400.png">
 </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1D59F7&width=435&lines=Sweet+tooth+for+you..;I'm+wide+awake..;The+sugar+went+straight+to+my+brain..;Feel+like+a+kid..+It's+cardiac..;A+safety+pin...;I+like+you...;Say+it+back+%3C3)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=880808&width=435&lines=Sweet+tooth+for+you..;I'm+wide+awake..;The+sugar+went+straight+to+my+brain..;Feel+like+a+kid..+It's+cardiac..;A+safety+pin...;I+like+you...;Say+it+back+%3C3)](https://git.io/typing-svg)
 
 <p align="right">
   <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FWanderersWife&label=Travelers&labelColor=%230047ab&countColor=%234169e1"/>
