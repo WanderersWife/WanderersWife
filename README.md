@@ -1,39 +1,39 @@
 <p align="center">
-  <img width="700" src="https://github.com/WanderersWife/WanderersWife/blob/5b1345545ef16a3fc394b2f6d98740f4fa065b2e/tumblr_d5035f7148b999d01923f1ac744699c3_cf57a0ff_2048.gif.webp">
+  <img width="700" src="https://github.com/WanderersWife/WanderersWife/blob/de2b7187a66af4377237304d8edd7cf403578896/tumblr_0bfd10587ddb6d5a773dfcb306db7f79_eac162ab_1280.png">
 </p>
 
 <p align="center">
- ${\textsf{\color{#40E0D0}"Just a heads up! I block freely!"}}$
+ ${\textsf{\color{#FF3131}"Just a heads up! I block freely!"}}$
 </p>
 <p align="center">
- ${\textsf{\color{#40B5AD}"If I block you, most of the time it isnt personal!"}}$
+ ${\textsf{\color{#}"If I block you, most of the time it isnt personal!"}}$
 </p>
 <p align="center">
- ${\textsf{\color{#9FE2BF}"It may be because you fit my dni criteria."}}$
+ ${\textsf{\color{#FF3131}"It may be because you fit my dni criteria."}}$
 </p>
 <p align="center">
- ${\textsf{\color{#96DED1}"Specifically if you yumeship with Wanderer."}}$
+ ${\textsf{\color{#}"Specifically if you yumeship with Wanderer."}}$
 </p>
 <p align="center">
- ${\textsf{\color{#F0FFFF}"Don't take it to heart, it's my boundaries!"}}$
+ ${\textsf{\color{#FF3131}"Don't take it to heart, it's my boundaries!"}}$
 </p>
 
 <p align="center">
-  <img width="300" src="https://github.com/WanderersWife/WanderersWife/blob/197b1066d73a081344dd71d0703a745c9784928c/tumblr_c606d15c1121c3b63eadbc7da50609fe_69342419_400.png">
+  <img width="300" src="https://github.com/WanderersWife/WanderersWife/blob/de2b7187a66af4377237304d8edd7cf403578896/tumblr_a29b144e4a59f54ac99bf20b18c7725f_2f867d1f_400.png">
 </p>
 
 <p align="left">
- ${\textsf{\color{#6082B6}"Dumb conversations ."}}$
+ ${\textsf{\color{#880808}"Dumb conversations ."}}$
 </p>
 <p align="center">
- ${\textsf{\color{#ADD8E6}"We lose track of time ."}}$
+ ${\textsf{\color{#880808}"We lose track of time ."}}$
 </p>
 <p align="right">
- ${\textsf{\color{#87CEEB}"Have I told you lately I'm grateful you're mine ?"}}$
+ ${\textsf{\color{#880808}"Have I told you lately I'm grateful you're mine ?"}}$
 </p>
 
 <p align="center">
-  <img width="300" src="https://github.com/WanderersWife/WanderersWife/blob/197b1066d73a081344dd71d0703a745c9784928c/tumblr_101ec9448ed3e3dcde6b754685a12c09_4ce83104_1280.gif.webp">
+  <img width="300" src="https://github.com/WanderersWife/WanderersWife/blob/de2b7187a66af4377237304d8edd7cf403578896/tumblr_b9b4f947446d5aad611e4e0f0bc2a2d2_caf8afbe_540.jpg">
 </p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1D59F7&width=435&lines=Sweet+tooth+for+you..;I'm+wide+awake..;The+sugar+went+straight+to+my+brain..;Feel+like+a+kid..+It's+cardiac..;A+safety+pin...;I+like+you...;Say+it+back+%3C3)](https://git.io/typing-svg)
@@ -43,55 +43,55 @@
 </p>
 
 <p align="center">
-  <img width="800" src="https://github.com/WanderersWife/WanderersWife/blob/197b1066d73a081344dd71d0703a745c9784928c/tumblr_4f312e443add2568ad8883081390777c_4a0a50db_640.gif">
+  <img width="800" src="https://github.com/WanderersWife/WanderersWife/blob/de2b7187a66af4377237304d8edd7cf403578896/tumblr_9925a480c6e3db04b26a492f55409090_823ed25c_1280.png">
 </p>
 
 <p align="center">
- ${\textsf{\color{#6082B6}Call me Haru! I'm 20, she/her/hers, and Aroace!}}$
+ ${\textsf{\color{#CC5500}Call me Haru! I'm 20, she/her/hers, and Aroace!}}$
 </p>
 <p align="center">
- ${\textsf{\color{#ADD8E6}Voidsharing Soulbonded Riako Wanderer Yume!}}$
+ ${\textsf{\color{#814141}Voidsharing Soulbonded Riako Wanderer Yume!}}$
 </p>
 <p align="center">
- ${\textsf{\color{#87CEEB}I DON'T Harass people. Don't harass me. Yumeshipping w him saved my life!}}$
-</p>
-
-<p align="center">
-  <img width="200" src="https://github.com/WanderersWife/WanderersWife/blob/197b1066d73a081344dd71d0703a745c9784928c/tumblr_3376c6501e2a1a6abacf8b4309499b74_787d88fa_1280.png">
+ ${\textsf{\color{#DC143C}I DON'T Harass people. Don't harass me. Yumeshipping w him saved my life!}}$
 </p>
 
 <p align="center">
- ${\textsf{\color{#6082B6}I have Audhd, ocd, anxiety, DID, and potential dyslexia!}}$
-</p>
-<p align="center">
- ${\textsf{\color{#ADD8E6}Please be patient with me, as I hesitate and overthink alot!!}}$
-</p>
-<p align="center">
- ${\textsf{\color{#87CEEB}Strictly NO Wanderer yumes int, and wanderer kins iwec always!}}$
+  <img width="300" src="https://github.com/WanderersWife/WanderersWife/blob/de2b7187a66af4377237304d8edd7cf403578896/tumblr_645449600f480630564560f839e225c2_246c0d27_250.gif.webp">
 </p>
 
 <p align="center">
-  <img width="200" src="https://github.com/WanderersWife/WanderersWife/blob/197b1066d73a081344dd71d0703a745c9784928c/a6aa5c6af401c75360acdf764bbbc8b247441c07.gifv.gif">
+ ${\textsf{\color{#CC5500}I have Audhd, ocd, anxiety, DID, and potential dyslexia!}}$
+</p>
+<p align="center">
+ ${\textsf{\color{#814141}Please be patient with me, as I hesitate and overthink alot!!}}$
+</p>
+<p align="center">
+ ${\textsf{\color{#DC143C}Strictly NO Wanderer yumes int, and wanderer kins iwec always!}}$
 </p>
 
 <p align="center">
- ${\textsf{\color{#6082B6}Basic DNI Criteria, under 15 dni!}}$
-</p>
-<p align="center">
- ${\textsf{\color{#ADD8E6}Freak Circus, Adult shows, Roblox heavy dni!}}$
-</p>
-<p align="center">
- ${\textsf{\color{#87CEEB}Other than that, you're free to int as long as you're kind! <3}}$
+  <img width="200" src="https://github.com/WanderersWife/WanderersWife/blob/de2b7187a66af4377237304d8edd7cf403578896/tumblr_055ecc61a05e0198f397085057794305_df0c5d10_540.png">
 </p>
 
 <p align="center">
-  <img width="200" src="https://github.com/WanderersWife/WanderersWife/blob/197b1066d73a081344dd71d0703a745c9784928c/tumblr_bd54cc6cd6751b01a3e1333505c57c76_84610d13_1280.png">
+ ${\textsf{\color{#CC5500}Basic DNI Criteria, under 15 dni!}}$
+</p>
+<p align="center">
+ ${\textsf{\color{#814141}Freak Circus, Adult shows, Roblox heavy dni!}}$
+</p>
+<p align="center">
+ ${\textsf{\color{#DC143C}Other than that, you're free to int as long as you're kind! <3}}$
 </p>
 
 <p align="center">
-  <img width="800" src="https://github.com/WanderersWife/WanderersWife/blob/197b1066d73a081344dd71d0703a745c9784928c/tumblr_4f312e443add2568ad8883081390777c_4a0a50db_640.gif">
+  <img width="350" src="https://github.com/WanderersWife/WanderersWife/blob/de2b7187a66af4377237304d8edd7cf403578896/8ea06d33943d1ed79fa2d20badd6a7e1%20(1).jpg">
 </p>
 
 <p align="center">
-  <img width="800" src="https://github.com/WanderersWife/WanderersWife/blob/197b1066d73a081344dd71d0703a745c9784928c/tumblr_bb2623e90de82b44ec19fab3cfcf7279_5377e620_1280.gif.webp">
+  <img width="800" src="https://github.com/WanderersWife/WanderersWife/blob/de2b7187a66af4377237304d8edd7cf403578896/tumblr_9925a480c6e3db04b26a492f55409090_823ed25c_1280.png">
+</p>
+
+<p align="center">
+  <img width="800" src="https://github.com/WanderersWife/WanderersWife/blob/de2b7187a66af4377237304d8edd7cf403578896/tumblr_004d3359bb210b7bb7f1302264c55a97_317df11e_640.gif.webp">
 </p>
