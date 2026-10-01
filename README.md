@@ -39,7 +39,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=880808&width=435&lines=Sweet+tooth+for+you..;I'm+wide+awake..;The+sugar+went+straight+to+my+brain..;Feel+like+a+kid..+It's+cardiac..;A+safety+pin...;I+like+you...;Say+it+back+%3C3)](https://git.io/typing-svg)
 
 <p align="right">
-  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FWanderersWife&label=Travelers&labelColor=%230047ab&countColor=%234169e1"/>
+  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FWanderersWife&labelColor=%23800020&countColor=%23702963&labelStyle=upper"/>
 </p>
 
 <p align="center">
