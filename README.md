@@ -61,13 +61,13 @@
 </p>
 
 <p align="center">
- ${\textsf{\color{#CC5500}I have Audhd, ocd, anxiety, DID, and potential dyslexia!}}$
+ ${\textsf{\color{#CC5500}Ships on my dnis are:}}$
 </p>
 <p align="center">
- ${\textsf{\color{#814141}Please be patient with me, as I hesitate and overthink alot!!}}$
+ ${\textsf{\color{#814141}ANY Wanderer ships. Unless its my yume.}}$
 </p>
 <p align="center">
- ${\textsf{\color{#DC143C}Strictly NO Wanderer yumes int, and wanderer kins iwec always!}}$
+ ${\textsf{\color{#DC143C}Durin ships dni. Neuvifuri, wriolette shippers (just the toxic shippers), and toxic shippers in general!}}$
 </p>
 
 <p align="center">
@@ -75,13 +75,13 @@
 </p>
 
 <p align="center">
- ${\textsf{\color{#CC5500}Basic DNI Criteria, under 15 dni!}}$
+ ${\textsf{\color{#CC5500}Basic dni criteria! under 15 dni}}$
 </p>
 <p align="center">
- ${\textsf{\color{#814141}Freak Circus, Adult shows, Roblox heavy dni!}}$
+ ${\textsf{\color{#814141}TFC, hellaverse, adult shows such as south park heavy dni}}$
 </p>
 <p align="center">
- ${\textsf{\color{#DC143C}Other than that, you're free to int as long as you're kind! <3}}$
+ ${\textsf{\color{#DC143C}Roblox, ddlc, alnst, do not int unless I do! <3}}$
 </p>
 
 <p align="center">
