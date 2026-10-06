@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-  <img width="300" src="https://github.com/WanderersWife/WanderersWife/blob/de2b7187a66af4377237304d8edd7cf403578896/tumblr_b9b4f947446d5aad611e4e0f0bc2a2d2_caf8afbe_540.jpg">
+  <img width="300" src="https://github.com/WanderersWife/WanderersWife/blob/1a9b548436239cd5e50139ac682d3de9f8171d7f/Untitled24_20261005195451.png">
 </p>
 
 <p align="left">
