@@ -7,6 +7,7 @@
     <td><a href="https://wandererswifey.straw.page/"> Strawpage</a></td>
     <td><a href="https://pronouns.cc/@WanderersWife"> PronounsCard</a></td>
     <td><a href="https://wandererswife.atabook.org/?page=1"> Atabook</a></td>
+    <td><a href="https://www.wattpad.com/story/417207126-about-my-yumeship"> Wattpad</a></td>
   </tr>
 </table>
 
