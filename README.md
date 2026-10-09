@@ -90,5 +90,5 @@ ${\textsf{\color{#CC5500} I am soulbonded, which means I am spiritually bonded t
 </p>
 
 <p align="center">
-  <img width="800" src="https://github.com/WanderersWife/WanderersWife/blob/de2b7187a66af4377237304d8edd7cf403578896/tumblr_004d3359bb210b7bb7f1302264c55a97_317df11e_640.gif.webp">
+  <img width="700" src="https://github.com/WanderersWife/WanderersWife/blob/de2b7187a66af4377237304d8edd7cf403578896/tumblr_004d3359bb210b7bb7f1302264c55a97_317df11e_640.gif.webp">
 </p>
