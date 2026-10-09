@@ -28,7 +28,7 @@
 </p>
 
 <p align="center">
-  <img width="300" src="https://github.com/WanderersWife/WanderersWife/blob/79e5879bd305d5948784bd03deea6ca58abb4325/tumblr_055ecc61a05e0198f397085057794305_df0c5d10_540.png">
+  <img width="100" src="https://github.com/WanderersWife/WanderersWife/blob/79e5879bd305d5948784bd03deea6ca58abb4325/tumblr_055ecc61a05e0198f397085057794305_df0c5d10_540.png">
 </p>
 
  <div align="center">
@@ -78,11 +78,7 @@ ${\textsf{\color{#CC5500} I am soulbonded, which means I am spiritually bonded t
 </details>
 
 <p align="center">
-  <img width="300" src="https://github.com/WanderersWife/WanderersWife/blob/79e5879bd305d5948784bd03deea6ca58abb4325/tumblr_8fcc86eef93998f7be9e0ca9129b9791_e09b2a45_100.gif.webp">
-</p>
-
-<p align="center">
-  <img width="300" src="https://github.com/WanderersWife/WanderersWife/blob/1a9b548436239cd5e50139ac682d3de9f8171d7f/Untitled24_20261005195451.png">
+  <img width="100" src="https://github.com/WanderersWife/WanderersWife/blob/79e5879bd305d5948784bd03deea6ca58abb4325/tumblr_8fcc86eef93998f7be9e0ca9129b9791_e09b2a45_100.gif.webp">
 </p>
 
 <p align="center">
