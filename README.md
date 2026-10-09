@@ -10,27 +10,6 @@
   </tr>
 </table>
 
-
-<p align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=880808&width=435&lines=Sweet+tooth+for+you..;I'm+wide+awake..;The+sugar+went+straight+to+my+brain..;Feel+like+a+kid..+It's+cardiac..;A+safety+pin...;I+like+you...;Say+it+back+%3C3)](https://git.io/typing-svg" /></a>
-</p>
-
-<p align="center">
-  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FWanderersWife&labelColor=%23800020&countColor=%23702963&labelStyle=upper"/>
-</p>
-
-<p align="center">
-  <img width="300" src="https://github.com/WanderersWife/WanderersWife/blob/de2b7187a66af4377237304d8edd7cf403578896/tumblr_645449600f480630564560f839e225c2_246c0d27_250.gif.webp">
-</p>
-
-<p align="center">
-  <img width="800" src="https://github.com/WanderersWife/WanderersWife/blob/de2b7187a66af4377237304d8edd7cf403578896/tumblr_9925a480c6e3db04b26a492f55409090_823ed25c_1280.png">
-</p>
-
-<p align="center">
-  <img width="100" src="https://github.com/WanderersWife/WanderersWife/blob/79e5879bd305d5948784bd03deea6ca58abb4325/tumblr_055ecc61a05e0198f397085057794305_df0c5d10_540.png">
-</p>
-
  <div align="center">
 <details>
 <summary>  &nbsp;&nbsp;About me!</summary><br>
@@ -78,17 +57,21 @@ ${\textsf{\color{#CC5500} I am soulbonded, which means I am spiritually bonded t
 </details>
 
 <p align="center">
-  <img width="100" src="https://github.com/WanderersWife/WanderersWife/blob/79e5879bd305d5948784bd03deea6ca58abb4325/tumblr_8fcc86eef93998f7be9e0ca9129b9791_e09b2a45_100.gif.webp">
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=880808&width=435&lines=Sweet+tooth+for+you..;I'm+wide+awake..;The+sugar+went+straight+to+my+brain..;Feel+like+a+kid..+It's+cardiac..;A+safety+pin...;I+like+you...;Say+it+back+%3C3)](https://git.io/typing-svg" /></a>
 </p>
 
 <p align="center">
-  <img width="350" src="https://github.com/WanderersWife/WanderersWife/blob/de2b7187a66af4377237304d8edd7cf403578896/8ea06d33943d1ed79fa2d20badd6a7e1%20(1).jpg">
+  <img width="100" src="https://github.com/WanderersWife/WanderersWife/blob/79e5879bd305d5948784bd03deea6ca58abb4325/tumblr_055ecc61a05e0198f397085057794305_df0c5d10_540.png">
 </p>
 
 <p align="center">
-  <img width="800" src="https://github.com/WanderersWife/WanderersWife/blob/de2b7187a66af4377237304d8edd7cf403578896/tumblr_9925a480c6e3db04b26a492f55409090_823ed25c_1280.png">
+  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FWanderersWife&labelColor=%23800020&countColor=%23702963&labelStyle=upper"/>
 </p>
 
 <p align="center">
-  <img width="700" src="https://github.com/WanderersWife/WanderersWife/blob/de2b7187a66af4377237304d8edd7cf403578896/tumblr_004d3359bb210b7bb7f1302264c55a97_317df11e_640.gif.webp">
+  <img width="300" src="https://github.com/WanderersWife/WanderersWife/blob/de2b7187a66af4377237304d8edd7cf403578896/tumblr_645449600f480630564560f839e225c2_246c0d27_250.gif.webp">
+</p>
+
+<p align="center">
+  <img width="700" src="https://github.com/WanderersWife/WanderersWife/blob/de2b7187a66af4377237304d8edd7cf403578896/8ea06d33943d1ed79fa2d20badd6a7e1%20(1).jpg">
 </p>
