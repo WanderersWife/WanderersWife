@@ -73,5 +73,5 @@ ${\textsf{\color{#CC5500} I am soulbonded, which means I am spiritually bonded t
 </p>
 
 <p align="center">
-  <img width="700" src="https://github.com/WanderersWife/WanderersWife/blob/de2b7187a66af4377237304d8edd7cf403578896/8ea06d33943d1ed79fa2d20badd6a7e1%20(1).jpg">
+  <img width="600" src="https://github.com/WanderersWife/WanderersWife/blob/de2b7187a66af4377237304d8edd7cf403578896/8ea06d33943d1ed79fa2d20badd6a7e1%20(1).jpg">
 </p>
