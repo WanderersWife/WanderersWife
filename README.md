@@ -10,6 +10,7 @@
   </tr>
 </table>
 
+
 <p align="center">
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=880808&width=435&lines=Sweet+tooth+for+you..;I'm+wide+awake..;The+sugar+went+straight+to+my+brain..;Feel+like+a+kid..+It's+cardiac..;A+safety+pin...;I+like+you...;Say+it+back+%3C3)](https://git.io/typing-svg" /></a>
 </p>
@@ -19,7 +20,15 @@
 </p>
 
 <p align="center">
+  <img width="300" src="https://github.com/WanderersWife/WanderersWife/blob/de2b7187a66af4377237304d8edd7cf403578896/tumblr_645449600f480630564560f839e225c2_246c0d27_250.gif.webp">
+</p>
+
+<p align="center">
   <img width="800" src="https://github.com/WanderersWife/WanderersWife/blob/de2b7187a66af4377237304d8edd7cf403578896/tumblr_9925a480c6e3db04b26a492f55409090_823ed25c_1280.png">
+</p>
+
+<p align="center">
+  <img width="300" src="">
 </p>
 
  <div align="center">
@@ -33,10 +42,6 @@ ${\textsf{\color{#880808} I have moodswings, I over think ALOT, and can easily b
 ${\textsf{\color{#CC5500} I may go nonverbal or step away!}}$
 </details>
 
-<p align="center">
-  <img width="300" src="https://github.com/WanderersWife/WanderersWife/blob/de2b7187a66af4377237304d8edd7cf403578896/tumblr_645449600f480630564560f839e225c2_246c0d27_250.gif.webp">
-</p>
-
  <div align="center">
 <details>
 <summary>  &nbsp;&nbsp;byi!</summary><br>
@@ -48,9 +53,6 @@ ${\textsf{\color{#880808} Do not throw insults my way, simply hide me and move o
 ${\textsf{\color{#CC5500} Wanderer kins int with EXTREME caution, dont act like im your gf either.}}$
 </details>
 
-<p align="center">
-  <img width="200" src="https://github.com/WanderersWife/WanderersWife/blob/de2b7187a66af4377237304d8edd7cf403578896/tumblr_055ecc61a05e0198f397085057794305_df0c5d10_540.png">
-</p>
 
  <div align="center">
 <details>
@@ -63,9 +65,6 @@ ${\textsf{\color{#880808} TFC, Hellaverse, Roblox (unless friends), DDLC, alnst 
 ${\textsf{\color{#CC5500} Anti Yumeshippers as a whole just dni.}}$
 </details>
 
-<p align="center">
-  <img width="300" src="https://github.com/WanderersWife/WanderersWife/blob/de2b7187a66af4377237304d8edd7cf403578896/tumblr_a29b144e4a59f54ac99bf20b18c7725f_2f867d1f_400.png">
-</p>
 
  <div align="center">
 <details>
@@ -77,6 +76,10 @@ ${\textsf{\color{#CC5500} I am voidsharing, which means I prefer to not acknowle
 ${\textsf{\color{#880808} I am a Riako, which means the love for Wanderer feels real.}}$
 ${\textsf{\color{#CC5500} I am soulbonded, which means I am spiritually bonded to Wanderer!}}$
 </details>
+
+<p align="center">
+  <img width="300" src="">
+</p>
 
 <p align="center">
   <img width="300" src="https://github.com/WanderersWife/WanderersWife/blob/1a9b548436239cd5e50139ac682d3de9f8171d7f/Untitled24_20261005195451.png">
