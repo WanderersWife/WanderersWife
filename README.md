@@ -19,7 +19,7 @@ ${\textsf{\color{#CC5500} I'm aroace, pan, and taken! <33}}$
 ${\textsf{\color{#880808} I have Audhd, DID, Anxiety, potential dyslexia, and ocd!}}$
 ${\textsf{\color{#CC5500} I'm a voidsharing Wanderer yumeshipper, Riako and soulbonded!}}$
 ${\textsf{\color{#880808} I have moodswings, I over think ALOT, and can easily become overwhelmed}}$
-${\textsf{\color{#CC5500} I may go nonverbal or step away!}}$
+${\textsf{\color{#CC5500} I ALSO LOVEEEEE MAKING FRIENDS PLS ASK ME TO BE OOMFS I DONT BITE <3333 }}$
 </details>
 
  <div align="center">
