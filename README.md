@@ -45,8 +45,7 @@ ${\textsf{\color{#880808} TFC, Hellaverse, Roblox (unless friends), DDLC, alnst 
 ${\textsf{\color{#CC5500} Anti Yumeshippers as a whole just dni.}}$
 </details>
 
-
- <div align="center">
+<div align="center">
 <details>
 <summary>  &nbsp;&nbsp;why do I yumeship!</summary><br>
 ${\textsf{\color{#880808} I yumeship as a coping mechanism! Wanderer is very personal to me in that regard.}}$
@@ -55,6 +54,12 @@ ${\textsf{\color{#880808} I find comfort in yumeshipping with Wanderer, he is my
 ${\textsf{\color{#CC5500} I am voidsharing, which means I prefer to not acknowledge my doubles.}}$
 ${\textsf{\color{#880808} I am a Riako, which means the love for Wanderer feels real.}}$
 ${\textsf{\color{#CC5500} I am soulbonded, which means I am spiritually bonded to Wanderer!}}$
+</details>
+
+ <div align="center">
+<details>
+<summary>  &nbsp;&nbsp;Oomfs close to me!!</summary><br>
+${\textsf{\color{#FFF0B5} @Cosmicalwave @dvrinn @kabukimeowi @TeaReverie @H3ALINGBREEZE @zombietill @starcrissy}}$
 </details>
 
 <p align="center">
