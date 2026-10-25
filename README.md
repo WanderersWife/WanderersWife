@@ -1,7 +1,8 @@
 <p align="center">
   <img width="700" src="https://github.com/WanderersWife/WanderersWife/blob/de2b7187a66af4377237304d8edd7cf403578896/tumblr_0bfd10587ddb6d5a773dfcb306db7f79_eac162ab_1280.png">
 </p>
-TY PT AWARDS!!
+
+
 <p align="center">
   <img width="500" src="https://github.com/WanderersWife/WanderersWife/blob/8e2103310148df4d5bcca5b9bdf409177137a4c3/Screenshot%202026-10-25%20014544.png">
 </p>
