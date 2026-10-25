@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img width="500" src="">
+  <img width="500" src="https://github.com/WanderersWife/WanderersWife/blob/8e2103310148df4d5bcca5b9bdf409177137a4c3/Screenshot%202026-10-25%20014544.png">
 </p>
 
 <p align="center"table>
