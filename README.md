@@ -64,7 +64,7 @@ ${\textsf{\color{#CC5500} I am soulbonded, which means I am spiritually bonded t
  <div align="center">
 <details>
 <summary>  &nbsp;&nbsp;Oomfs close to me!!</summary><br>
-${\textsf{\color{#FFF0B5} @Cosmicalwave @dvrinn @kabukimeowi @TeaReverie @H3ALINGBREEZE @zombietill @starcrissy}}$
+${\textsf{\color{#FFF0B5} @Cosmicalwave @dvrinn @kabukimeowi @TeaReverie @stclles @H3ALINGBREEZE @zombietill @starcrissy}}$
 </details>
 
 <p align="center">
