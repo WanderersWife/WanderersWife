@@ -20,22 +20,22 @@
 <details>
 <summary>  &nbsp;&nbsp;About me!</summary><br>
 ${\textsf{\color{#89CFF0} Call me Haru! I am 20 and she her hers!}}$
-${\textsf{\color{#6495ED} I'm aroace, pan, and taken! <33}}$
+${\textsf{\color{#B6D0E2} I'm aroace, pan, and taken! <33}}$
 ${\textsf{\color{#89CFF0} I have Audhd, DID, Anxiety, potential dyslexia, and ocd!}}$
-${\textsf{\color{#6495ED} I'm a voidsharing Wanderer yumeshipper, Riako and soulbonded!}}$
+${\textsf{\color{#B6D0E2} I'm a voidsharing Wanderer yumeshipper, Riako and soulbonded!}}$
 ${\textsf{\color{#89CFF0} I have moodswings, I over think ALOT, and can easily become overwhelmed}}$
-${\textsf{\color{#6495ED} I ALSO LOVEEEEE MAKING FRIENDS PLS ASK ME TO BE OOMFS I DONT BITE <3333 }}$
+${\textsf{\color{#B6D0E2} I ALSO LOVEEEEE MAKING FRIENDS PLS ASK ME TO BE OOMFS I DONT BITE <3333 }}$
 </details>
 
  <div align="center">
 <details>
 <summary>  &nbsp;&nbsp;byi!</summary><br>
 ${\textsf{\color{#89CFF0} I'm an adult, so people under 15 dni or interact with extreme caution!}}$
-${\textsf{\color{#6495ED} I'm a very sensitive person, so please be patient with me!}}$
+${\textsf{\color{#B6D0E2} I'm a very sensitive person, so please be patient with me!}}$
 ${\textsf{\color{#89CFF0} I'm VERY protective of Wanderer, so please be aware of that.}}$
-${\textsf{\color{#6495ED} If you have a problem with me, then just block me.}}$
+${\textsf{\color{#B6D0E2} If you have a problem with me, then just block me.}}$
 ${\textsf{\color{#89CFF0} Do not throw insults my way, simply hide me and move on.}}$
-${\textsf{\color{#6495ED} Wanderer kins int with EXTREME caution, dont act like im your gf either.}}$
+${\textsf{\color{#B6D0E2} Wanderer kins int with EXTREME caution, dont act like im your gf either.}}$
 </details>
 
 
@@ -43,22 +43,22 @@ ${\textsf{\color{#6495ED} Wanderer kins int with EXTREME caution, dont act like 
 <details>
 <summary>  &nbsp;&nbsp;dni!</summary><br>
 ${\textsf{\color{#89CFF0} Wanderer yumes HEAVY dni.}}$
-${\textsf{\color{#6495ED} Wanderer ships in general dni.}}$
+${\textsf{\color{#B6D0E2} Wanderer ships in general dni.}}$
 ${\textsf{\color{#89CFF0} Basic dni, etc etc.}}$
-${\textsf{\color{#6495ED} Ex friends dni. I don't want to int with you.}}$
+${\textsf{\color{#B6D0E2} Ex friends dni. I don't want to int with you.}}$
 ${\textsf{\color{#89CFF0} TFC, Hellaverse, Roblox (unless friends), DDLC, alnst (unless friends, dni!)}}$
-${\textsf{\color{#6495ED} Anti Yumeshippers as a whole just dni.}}$
+${\textsf{\color{#B6D0E2} Anti Yumeshippers as a whole just dni.}}$
 </details>
 
 <div align="center">
 <details>
 <summary>  &nbsp;&nbsp;why do I yumeship!</summary><br>
 ${\textsf{\color{#89CFF0} I yumeship as a coping mechanism! Wanderer is very personal to me in that regard.}}$
-${\textsf{\color{#6495ED} It has saved my life, and the love feels very real to me!}}$
+${\textsf{\color{#B6D0E2} It has saved my life, and the love feels very real to me!}}$
 ${\textsf{\color{#89CFF0} I find comfort in yumeshipping with Wanderer, he is my husband in my eyes!!}}$
-${\textsf{\color{#6495ED} I am voidsharing, which means I prefer to not acknowledge my doubles.}}$
+${\textsf{\color{#B6D0E2} I am voidsharing, which means I prefer to not acknowledge my doubles.}}$
 ${\textsf{\color{#89CFF0} I am a Riako, which means the love for Wanderer feels real.}}$
-${\textsf{\color{#6495ED} I am soulbonded, which means I am spiritually bonded to Wanderer!}}$
+${\textsf{\color{#B6D0E2} I am soulbonded, which means I am spiritually bonded to Wanderer!}}$
 </details>
 
  <div align="center">
