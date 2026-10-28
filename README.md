@@ -72,7 +72,7 @@ ${\textsf{\color{#F0FFFF} @Cosmicalwave @dvrinn @kabukimeowi @TeaReverie @stclle
 </p>
 
 <p align="center">
-  <img width="100" src="https://github.com/WanderersWife/WanderersWife/blob/79e5879bd305d5948784bd03deea6ca58abb4325/tumblr_055ecc61a05e0198f397085057794305_df0c5d10_540.png">
+  <img width="100" src="https://github.com/WanderersWife/WanderersWife/blob/e81420e2eb4062d3465543c7c9f5aa35be7f0659/tumblr_3376c6501e2a1a6abacf8b4309499b74_787d88fa_1280.png">
 </p>
 
 <p align="center">
@@ -80,9 +80,9 @@ ${\textsf{\color{#F0FFFF} @Cosmicalwave @dvrinn @kabukimeowi @TeaReverie @stclle
 </p>
 
 <p align="center">
-  <img width="300" src="https://github.com/WanderersWife/WanderersWife/blob/de2b7187a66af4377237304d8edd7cf403578896/tumblr_645449600f480630564560f839e225c2_246c0d27_250.gif.webp">
+  <img width="300" src="https://github.com/WanderersWife/WanderersWife/blob/e81420e2eb4062d3465543c7c9f5aa35be7f0659/tumblr_101ec9448ed3e3dcde6b754685a12c09_4ce83104_1280.gif.webp">
 </p>
 
 <p align="center">
-  <img width="600" src="https://github.com/WanderersWife/WanderersWife/blob/de2b7187a66af4377237304d8edd7cf403578896/8ea06d33943d1ed79fa2d20badd6a7e1%20(1).jpg">
+  <img width="600" src="https://github.com/WanderersWife/WanderersWife/blob/51ce884232ea0dde7cdd05913a871141b10487d3/a7ee287cafced489440275f83794d9cc.webp">
 </p>
