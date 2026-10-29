@@ -72,7 +72,8 @@ ${\textsf{\color{#F0FFFF} @Cosmicalwave @dvrinn @kabukimeowi @TeaReverie @stclle
 </p>
 
 <p align="center">
-  <img width="100" src="https://github.com/WanderersWife/WanderersWife/blob/e81420e2eb4062d3465543c7c9f5aa35be7f0659/tumblr_3376c6501e2a1a6abacf8b4309499b74_787d88fa_1280.png">
+<img width="136" alt="image" src="7" />
+ <img width="150" alt="image" src="" />
 </p>
 
 <p align="center">
