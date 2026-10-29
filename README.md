@@ -72,8 +72,8 @@ ${\textsf{\color{#F0FFFF} @Cosmicalwave @dvrinn @kabukimeowi @TeaReverie @stclle
 </p>
 
 <p align="center">
-<img width="136" alt="image" src="https://github.com/WanderersWife/WanderersWife/blob/c5f508c1c24f8dd9c0dc1a4fc6418f88226210f9/pony-town-23-%20MY%20HUSB!!%20TYSM%20CRISSY!!%20%F0%9F%8E%81-kiss-sit-hearts-blinking-padded-4x.gif"/>
- <img width="150" alt="image" src="https://github.com/WanderersWife/WanderersWife/blob/c5f508c1c24f8dd9c0dc1a4fc6418f88226210f9/pony-town-!-%20MEE!!%20TY%20CRISSY!!%20_333-kiss-sit-hearts-blinking-padded-ponyplush-4x%20(1).gif"/>
+<img width="136" alt="image" src="https://github.com/WanderersWife/WanderersWife/blob/fd254bacee7d49a71e8436d531770082fe76576c/pony-town-23-%20MY%20HUSB!!%20TYSM%20CRISSY!!%20%F0%9F%8E%81-dance-4-blinking-padded-4x.gif"/>
+ <img width="150" alt="image" src="https://github.com/WanderersWife/WanderersWife/blob/fd254bacee7d49a71e8436d531770082fe76576c/pony-town-!-%20MEE!!%20TY%20CRISSY!!%20_333-dance-4-blinking-padded-ponyplush-4x.gif"/>
 </p>
 
 <p align="center">
