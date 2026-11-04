@@ -94,7 +94,7 @@ ${\textsf{\color{#B6D0E2} There's times I'll disossciate and daydream about bein
 ${\textsf{\color{#89CFF0} To me, I've never felt so maternal over a character like Durin. And the fact that hes basically Wanderers son makes me happy!}}$
 ${\textsf{\color{#B6D0E2} And to think Wanderer is introverted just like me. And he is depicted as a cat which happens to be one of my fav animals.}}$
 ${\textsf{\color{#89CFF0} To summarize, Wanderer is very important to me on many very very personal levels. And to some, it looks insane, but Idc}}$
-${\textsf{\color{#B6D0E2} Thank you for reading! <3 If you have any questions, don't be shy to ask. And if you read this through, send me a cat emoji!}}$
+${\textsf{\color{#B6D0E2} Thank you for reading! <3 If you have any questions, don't be shy!. And if you read all this, whisper a cat emoji!}}$
 </details>
 
  <div align="center">
