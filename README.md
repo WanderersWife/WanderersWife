@@ -86,7 +86,7 @@ ${\textsf{\color{#B6D0E2} There's things that scare me, but I've learned to acce
 ${\textsf{\color{#89CFF0} I've even learned how to soulbond with him. If you don't know what that is, I do suggest looking it up, as explaining it here makes me look insane lol.}}$
 ${\textsf{\color{#B6D0E2} I used to think I was crazy, being jealous or uncomfortable with people shipping Wanderer with other characters, because he's just a character, right?}}$
 ${\textsf{\color{#89CFF0} To me, he is not. To me, he is my partner, my husband, my other half. And this is why I am now Voidsharing status with him.}}$
-${\textsf{\color{#B6D0E2} I've learned to ignore and block those who don't understand the depths of my feelings, or find it weird and think insulting me instead of blocking is good.}}$
+${\textsf{\color{#B6D0E2} I've learned to ignore and block those who don't understand the depths of my feelings, or find it weird and think insulting me is okay.}}$
 ${\textsf{\color{#89CFF0} If you are someone who thinks throwing insults my way will "save me" from being mentally ill, it will not.  You make it worse. Please dni.}}$
 ${\textsf{\color{#B6D0E2} Alot of this is why I feel so close to Wanderer. To me, he is as real as a character from a game can get.}}$
 ${\textsf{\color{#89CFF0} And there are many times I feel distressed, sad, and angry that he isn't real where I am, that he can't hold or kiss me in my world.}}$
