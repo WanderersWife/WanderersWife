@@ -61,6 +61,42 @@ ${\textsf{\color{#89CFF0} I am a Riako, which means the love for Wanderer feels 
 ${\textsf{\color{#B6D0E2} I am soulbonded, which means I am spiritually bonded to Wanderer!}}$
 </details>
 
+<div align="center">
+<details>
+<summary>  &nbsp;&nbsp;why I love Wanderer! big yapping warning lol</summary><br>
+${\textsf{\color{#89CFF0} Firstly, I used to hate Wanderer. Before I returned to genshin, I saw him everywhere, and I hated him because of it.}}$
+${\textsf{\color{#B6D0E2} Then I met him in game for the first time, it was around fontaines arc, I had rejoined for Lyney first.}}$
+${\textsf{\color{#89CFF0} As I learned about his story, and the trauma he had gone through, I realized I kinned him heavily.}}$
+${\textsf{\color{#B6D0E2} I know how it feels to be seen as a tool, only to be discarded. To be abandoned by those who were supposed to love you.}}$
+${\textsf{\color{#89CFF0} I know how it feels to lose companions who were meant to be there for you, because of things beyond your control.}}$
+${\textsf{\color{#B6D0E2} And I absolutely know how it feels to be angry at the world, to hate everything and put up walls to not be hurt again.}}$\
+${\textsf{\color{#B6D0E2} After I learned of his story, and his redemption arc as a now playable character, I realized something.}}$
+${\textsf{\color{#89CFF0} I loved him. Loved him more than I've loved someone before. And in a way, it terrified me.}}$
+${\textsf{\color{#B6D0E2} Usually with fictional crushes of mine, I tend to gravitate towards them, then move on like its a phase. Which usually it is.}}$
+${\textsf{\color{#89CFF0} But over two years ago. July 4th 2024. Is when I fell in love with him, and never looked back since.}}$
+${\textsf{\color{#B6D0E2} I started to notice the little things about him. His quirks, things he liked, things he didn't like.}}$
+${\textsf{\color{#89CFF0} I deep dived into his backstory over and over, researching about him, wanting to know everything about him.}}$
+${\textsf{\color{#B6D0E2} I wanted to learn more about him, looking between the lines of his story, voicelines, cutscenes, expressions, etc.}}$
+${\textsf{\color{#89CFF0} It may seem silly to some, but to me, this is what makes me happy. I love and feel close to him.}}$
+${\textsf{\color{#B6D0E2} I even made a Genshin Persona that resembles me. She shares a past with Wanderer, since I kin him, and sharing pasts seems fitting.}}$
+${\textsf{\color{#89CFF0} It's essentially a childhood friends to enemies to lovers troupe. Where they met when Wanderer was first set free by Ei.}}$
+${\textsf{\color{#B6D0E2} Ever since then, It's been my main hyperfixation. I even learned to shift realities with the help of a friend, just to see him.}}$
+${\textsf{\color{#89CFF0} Yumeshipping with Wanderer has even saved my life. When I'm upset, at my lowest, I'll think of him. Think of what he'd do. What he'd feel.}}$
+${\textsf{\color{#B6D0E2} There's things that scare me, but I've learned to accept them, just like he has. I've learned its okay to be scared, if your goal is to grow.}}$
+${\textsf{\color{#89CFF0} I've even learned how to soulbond with him. If you don't know what that is, I do suggest looking it up, as explaining it here makes me look insane lol.}}$
+${\textsf{\color{#B6D0E2} I used to think I was crazy, being jealous or uncomfortable with people shipping Wanderer with other characters, because he's just a character, right?}}$
+${\textsf{\color{#89CFF0} To me, he is not. To me, he is my partner, my husband, my other half. And this is why I am now Voidsharing status with him.}}$
+${\textsf{\color{#B6D0E2} I've learned to ignore and block those who don't understand the depths of my feelings, or find it weird and think insulting me instead of blocking is good.}}$
+${\textsf{\color{#89CFF0} If you are someone who thinks throwing insults my way will "save me" from being mentally ill, it will not.  You make it worse. Please dni.}}$
+${\textsf{\color{#B6D0E2} Alot of this is why I feel so close to Wanderer. To me, he is as real as a character from a game can get.}}$
+${\textsf{\color{#89CFF0} And there are many times I feel distressed, sad, and angry that he isn't real where I am, that he can't hold or kiss me in my world.}}$
+${\textsf{\color{#B6D0E2} There's times I'll disossciate and daydream about being in Sumeru, my home, with him. And with Durin, my son.}}$
+${\textsf{\color{#89CFF0} To me, I've never felt so maternal over a character like Durin. And the fact that he could be seen as Wanderers son, makes me overjoyed and happy.}}$
+${\textsf{\color{#B6D0E2} And to think Wanderer is introverted just like me. Prefers doing things alone like me. And is depicted as a cat, one of my favorite animals.}}$
+${\textsf{\color{#89CFF0} To summarize, Wanderer is very important to me on many very very personal levels. And to some, it looks insane, but I don't care.}}$
+${\textsf{\color{#B6D0E2} Thank you for reading! <3 If you have any questions, don't be shy to ask. And if you read this through, send me a cat emoji on whispers!!}}$
+</details>
+
  <div align="center">
 <details>
 <summary>  &nbsp;&nbsp;Oomfs close to me!!</summary><br>
