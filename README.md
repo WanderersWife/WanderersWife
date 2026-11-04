@@ -18,6 +18,12 @@
 
  <div align="center">
 <details>
+<summary>  &nbsp;&nbsp;HEAVY DNI!</summary><br>
+${\textsf{\color{#F0FFFF} Scaralumi, scaraaether, ANY scara ships, but SCARALUMI specifically NEVER INT, you guys make me SO uncomf,}}$
+</details>
+
+ <div align="center">
+<details>
 <summary>  &nbsp;&nbsp;About me!</summary><br>
 ${\textsf{\color{#89CFF0} Call me Haru! I am 20 and she her hers!}}$
 ${\textsf{\color{#B6D0E2} I'm aroace, pan, and taken! <33}}$
