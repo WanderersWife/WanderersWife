@@ -69,7 +69,7 @@ ${\textsf{\color{#B6D0E2} Then I met him in game for the first time, it was arou
 ${\textsf{\color{#89CFF0} As I learned about his story, and the trauma he had gone through, I realized I kinned him heavily.}}$
 ${\textsf{\color{#B6D0E2} I know how it feels to be seen as a tool, only to be discarded. To be abandoned by those who were supposed to love you.}}$
 ${\textsf{\color{#89CFF0} I know how it feels to lose companions who were meant to be there for you, because of things beyond your control.}}$
-${\textsf{\color{#B6D0E2} And I absolutely know how it feels to be angry at the world, to hate everything and put up walls to not be hurt again.}}$\
+${\textsf{\color{#B6D0E2} And I absolutely know how it feels to be angry at the world, to hate everything and put up walls to not be hurt again.}}$
 ${\textsf{\color{#B6D0E2} After I learned of his story, and his redemption arc as a now playable character, I realized something.}}$
 ${\textsf{\color{#89CFF0} I loved him. Loved him more than I've loved someone before. And in a way, it terrified me.}}$
 ${\textsf{\color{#B6D0E2} Usually with fictional crushes of mine, I tend to gravitate towards them, then move on like its a phase. Which usually it is.}}$
