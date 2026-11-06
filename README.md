@@ -107,7 +107,7 @@ ${\textsf{\color{#B6D0E2} Thank you for reading! <3 If you have any questions, d
  <div align="center">
 <details>
 <summary>  &nbsp;&nbsp;Oomfs close to me!!</summary><br>
-${\textsf{\color{#F0FFFF} @Cosmicalwave @dvrinn @kabukimeowi @TeaReverie @stclles @H3ALINGBREEZE @zombietill @starcrissy}}$
+${\textsf{\color{#F0FFFF} @LuminwinterRequiem @Chiiwara @FoxiansTale @naturalharmoniaa @Cosmicalwave @dvrinn @kabukimeowi @TeaReverie @stclles @H3ALINGBREEZE @zombietill @starcrissy}}$
 </details>
 
 <p align="center">
