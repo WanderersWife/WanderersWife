@@ -108,8 +108,8 @@ ${\textsf{\color{#B6D0E2} Thank you for reading! <3 If you have any questions, d
 <details>
 <summary>  &nbsp;&nbsp;Oomfs close to me!!</summary><br>
 ${\textsf{\color{#F0FFFF} @LuminwinterRequiem @Chiiwara @FoxiansTale @naturalharmoniaa}}$
-${\textsf{\color{#F0FFFF} @Cosmicalwave @dvrinn @kabukimeowi @TeaReverie @stclles}}$
-${\textsf{\color{#F0FFFF} @H3ALINGBREEZE @zombietill @starcrissy}}$
+${\textsf{\color{#F0FFFF} @Cosmicalwave @dvrinn @kabukimeowi @TeaReverie}}$
+${\textsf{\color{#F0FFFF} @stclles @H3ALINGBREEZE @zombietill @starcrissy}}$
 </details>
 
 <p align="center">
