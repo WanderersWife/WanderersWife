@@ -21,6 +21,7 @@
 <summary>  &nbsp;&nbsp;HEAVY DNI!</summary><br>
 ${\textsf{\color{#F0FFFF} Scaralumi, scaraaether, ANY scara ships, but SCARALUMI specifically NEVER INT, you guys make me SO uncomf,}}$
 ${\textsf{\color{#F0FFFF} The ship makes me physically ill and uncomfortable, and the shippers are toxic asf. Leave me alone.}}$
+${\textsf{\color{#F0FFFF} And those who have a problem with me/have been harassing me, DNI. BLOCK ME. I DO NOT CARE. Leave me alone.}}$
 </details>
 
  <div align="center">
