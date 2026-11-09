@@ -135,5 +135,5 @@ ${\textsf{\color{#F0FFFF} @stclles @H3ALINGBREEZE @zombietill @starcrissy}}$
 </p>
 
 <p align="center">
-  <img width="600" src="https://github.com/WanderersWife/WanderersWife/blob/51ce884232ea0dde7cdd05913a871141b10487d3/a7ee287cafced489440275f83794d9cc.webp">
+  <img width="800" src="https://github.com/WanderersWife/WanderersWife/blob/2fa8e65ed75afd748bd4709c69d59ed7d2623917/Untitled57_20261109121751.png">
 </p>
