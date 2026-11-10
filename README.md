@@ -29,7 +29,7 @@ ${\textsf{\color{#F0FFFF} And those who have a problem with me/have been harassi
 <summary>  &nbsp;&nbsp;About me!</summary><br>
 ${\textsf{\color{#89CFF0} Call me Haru! I am 20 and she her hers!}}$
 ${\textsf{\color{#B6D0E2} I'm aroace, pan, and taken! <33}}$
-${\textsf{\color{#89CFF0} I have Audhd, DID, Anxiety, potential dyslexia, and ocd!}}$
+${\textsf{\color{#89CFF0} Mentally ill, currently saving for a therapist irl..}}$
 ${\textsf{\color{#B6D0E2} I'm a voidsharing Wanderer yumeshipper, Riako and soulbonded!}}$
 ${\textsf{\color{#89CFF0} I have moodswings, I over think ALOT, and can easily become overwhelmed}}$
 ${\textsf{\color{#B6D0E2} I ALSO LOVEEEEE MAKING FRIENDS PLS ASK ME TO BE OOMFS I DONT BITE <3333 }}$
