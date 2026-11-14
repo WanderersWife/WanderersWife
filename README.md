@@ -79,8 +79,7 @@ ${\textsf{\color{#6495ED} Anti Yumeshippers as a whole just dni.}}$
 </details>
 
 <p align="center">
-<img width="136" alt="image" src=""/>
- <img width="150" alt="image" src=""/>
+  <img width="700" src="https://github.com/WanderersWife/for-read-me/blob/62f774e42afe0b6f24e6e8ccce68e65c5f19b0ac/tumblr_f99cfd5f07316970ade4e307c07f2b14_c412a760_1280.webp">
 </p>
 
 <div align="center">
