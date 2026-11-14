@@ -1,5 +1,9 @@
 <p align="center">
-  <img width="700" src="https://github.com/WanderersWife/for-read-me/blob/62f774e42afe0b6f24e6e8ccce68e65c5f19b0ac/tumblr_f99cfd5f07316970ade4e307c07f2b14_c412a760_1280.webp">
+  <img width="700" src="https://github.com/WanderersWife/WanderersWife/blob/557be516172cbd6b2b0a9c46d604d88c5ab9c87a/tumblr_bb2623e90de82b44ec19fab3cfcf7279_5377e620_1280.gif.webp">
+</p>
+
+<p align="center">
+  <img src="https://github.com/WanderersWife/WanderersWife/blob/557be516172cbd6b2b0a9c46d604d88c5ab9c87a/Screenshot%202026-10-25%20014544.png"/>
 </p>
 
 <p align="center">
@@ -79,7 +83,7 @@ ${\textsf{\color{#6495ED} Anti Yumeshippers as a whole just dni.}}$
 </details>
 
 <p align="center">
-  <img width="700" src="https://github.com/WanderersWife/for-read-me/blob/62f774e42afe0b6f24e6e8ccce68e65c5f19b0ac/tumblr_f99cfd5f07316970ade4e307c07f2b14_c412a760_1280.webp">
+  <img width="700" src="https://github.com/WanderersWife/WanderersWife/blob/557be516172cbd6b2b0a9c46d604d88c5ab9c87a/tumblr_7e08af3b9a5e0c51f51dceb158b3b737_21993e2b_1280.webp">
 </p>
 
 <div align="center">
@@ -196,6 +200,10 @@ ${\textsf{\color{#1F51FF} Art below is from me, as well as friends with fanarts!
 </p>
 
 <p align="center">
+  <img width="700" src="https://github.com/WanderersWife/WanderersWife/blob/557be516172cbd6b2b0a9c46d604d88c5ab9c87a/tumblr_7e08af3b9a5e0c51f51dceb158b3b737_21993e2b_1280.webp">
+</p>
+
+<p align="center">
 <img width="400" alt="image" src="https://github.com/WanderersWife/for-read-me/blob/62f774e42afe0b6f24e6e8ccce68e65c5f19b0ac/Untitled57_20261109121751%20(1).webp"/>
  <img width="400" alt="image" src="https://github.com/WanderersWife/for-read-me/blob/62f774e42afe0b6f24e6e8ccce68e65c5f19b0ac/Untitled308_20260823224655.webp"/>
 </p>
@@ -221,5 +229,5 @@ ${\textsf{\color{#1F51FF} Art below is from me, as well as friends with fanarts!
 </p>
 
 <p align="center">
-  <img width="700" src="https://github.com/WanderersWife/for-read-me/blob/62f774e42afe0b6f24e6e8ccce68e65c5f19b0ac/tumblr_f99cfd5f07316970ade4e307c07f2b14_c412a760_1280.webp">
+  <img width="700" src="https://github.com/WanderersWife/WanderersWife/blob/557be516172cbd6b2b0a9c46d604d88c5ab9c87a/tumblr_967f7042ac5625136b1d7838cf47e11c_0ce37b96_2048.gif.webp">
 </p>
