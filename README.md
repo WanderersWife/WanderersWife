@@ -6,6 +6,15 @@
   <img src="https://github.com/WanderersWife/WanderersWife/blob/557be516172cbd6b2b0a9c46d604d88c5ab9c87a/Screenshot%202026-10-25%20014544.png"/>
 </p>
 
+<p align="center"table>
+  <tr>
+    <td><a href="https://wandererswifey.straw.page/"> Strawpage</a></td>
+    <td><a href="https://wandererswife.atabook.org/?page=1"> Atabook</a></td>
+    <td><a href="https://www.wattpad.com/story/417207126-about-my-yumeship"> About my Genshin Sona</a></td>
+    <td><a href="https://open.spotify.com/playlist/5aRACuZt1kolPsSgVdxKFo"> Yumeship playlist</a></td>
+  </tr>
+</table>
+
 <p align="center">
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0000FF&width=435&lines=Sweet+tooth+for+you..;I'm+wide+awake..;The+sugar+went+straight+to+my+brain..;Feel+like+a+kid..+It's+cardiac..;A+safety+pin...;I+like+you...;Say+it+back+%3C3" /></a>
 </p>
@@ -24,14 +33,6 @@
 <img width="136" alt="image" src="https://github.com/WanderersWife/for-read-me/blob/62f774e42afe0b6f24e6e8ccce68e65c5f19b0ac/pony-town-63-%20F_o!%20Voidsharing%20_3!-stand-hearts-blush-blinking-padded-ponyplush-4x.gif"/>
  <img width="150" alt="image" src="https://github.com/WanderersWife/for-read-me/blob/62f774e42afe0b6f24e6e8ccce68e65c5f19b0ac/pony-town-!-%20Haru!%20Sona!%20Wanderers%20wife!-kiss-blinking-padded-ponyplush-4x.gif"/>
 </p>
-
-<p align="center"table>
-  <tr>
-    <td><a href="https://wandererswifey.straw.page/"> Strawpage</a></td>
-    <td><a href="https://wandererswife.atabook.org/?page=1"> Atabook</a></td>
-    <td><a href="https://www.wattpad.com/story/417207126-about-my-yumeship"> About my Genshin Sona</a></td>
-  </tr>
-</table>
 
 <div align="center">
 <details>
