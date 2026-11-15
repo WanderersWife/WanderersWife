@@ -161,8 +161,8 @@ ${\textsf{\color{#1F51FF} Art below is from me, as well as friends with fanarts!
 </p>
 
 <p align="center">
-<img width="400" alt="image" src="https://github.com/WanderersWife/for-read-me/blob/62f774e42afe0b6f24e6e8ccce68e65c5f19b0ac/Untitled27_20261010170328.webp"/>
- <img width="500" alt="image" src="https://github.com/WanderersWife/for-read-me/blob/62f774e42afe0b6f24e6e8ccce68e65c5f19b0ac/522ef230f7ed09542f797593630ac323_8801845013426622085.webp"/>
+<img width="300" alt="image" src="https://github.com/WanderersWife/for-read-me/blob/62f774e42afe0b6f24e6e8ccce68e65c5f19b0ac/Untitled27_20261010170328.webp"/>
+ <img width="400" alt="image" src="https://github.com/WanderersWife/for-read-me/blob/62f774e42afe0b6f24e6e8ccce68e65c5f19b0ac/522ef230f7ed09542f797593630ac323_8801845013426622085.webp"/>
 </p>
 
 <p align="center">
