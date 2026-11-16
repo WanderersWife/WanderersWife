@@ -87,10 +87,6 @@ ${\textsf{\color{#0047AB} TFC, Hellaverse, Roblox (unless friends), DDLC, alnst 
 ${\textsf{\color{#6495ED} Anti Yumeshippers as a whole just dni.}}$
 </details>
 
-<p align="center">
-  <img width="700" src="https://github.com/WanderersWife/WanderersWife/blob/557be516172cbd6b2b0a9c46d604d88c5ab9c87a/tumblr_7e08af3b9a5e0c51f51dceb158b3b737_21993e2b_1280.webp">
-</p>
-
 <div align="center">
 <details>
 <summary>  &nbsp;&nbsp;why do I yumeship!</summary><br>
@@ -137,6 +133,10 @@ ${\textsf{\color{#6495ED} And to think Wanderer is introverted just like me. And
 ${\textsf{\color{#0047AB} To summarize, Wanderer is very important to me on many very very personal levels. And to some, it looks insane, but Idc}}$
 ${\textsf{\color{#6495ED} Thank you for reading! <3 If you have any questions, don't be shy!. And if you read all this, whisper a cat emoji!}}$
 </details>
+
+<p align="center">
+  <img width="700" src="https://github.com/WanderersWife/WanderersWife/blob/557be516172cbd6b2b0a9c46d604d88c5ab9c87a/tumblr_7e08af3b9a5e0c51f51dceb158b3b737_21993e2b_1280.webp">
+</p>
 
 <p align="center">
   <img width="700" src="https://github.com/WanderersWife/WanderersWife/blob/557be516172cbd6b2b0a9c46d604d88c5ab9c87a/tumblr_967f7042ac5625136b1d7838cf47e11c_0ce37b96_2048.gif.webp">
