@@ -10,7 +10,7 @@
   <tr>
     <td><a href="https://wandererswifey.straw.page/"> Strawpage</a></td>
     <td><a href="https://wandererswife.atabook.org/?page=1"> Atabook</a></td>
-    <td><a href="https://www.wattpad.com/story/417207126-about-my-yumeship"> About my Genshin Sona</a></td>
+    <td><a href="https://www.wattpad.com/story/417207126-about-my-yumeship"> About my Yumeship</a></td>
     <td><a href="https://open.spotify.com/playlist/5aRACuZt1kolPsSgVdxKFo"> Yumeship playlist</a></td>
   </tr>
 </table>
