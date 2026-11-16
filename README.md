@@ -26,6 +26,10 @@
 </p>
 
 <p align="center">
+  <img width="700" src="https://github.com/WanderersWife/WanderersWife/blob/557be516172cbd6b2b0a9c46d604d88c5ab9c87a/tumblr_7e08af3b9a5e0c51f51dceb158b3b737_21993e2b_1280.webp">
+</p>
+
+<p align="center">
   <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FWanderersWife&label=Little%20Doves&labelColor=%0000FF&countColor=%6495ED"/>
 </p>
 
@@ -133,101 +137,6 @@ ${\textsf{\color{#6495ED} And to think Wanderer is introverted just like me. And
 ${\textsf{\color{#0047AB} To summarize, Wanderer is very important to me on many very very personal levels. And to some, it looks insane, but Idc}}$
 ${\textsf{\color{#6495ED} Thank you for reading! <3 If you have any questions, don't be shy!. And if you read all this, whisper a cat emoji!}}$
 </details>
-
-<div align="center">
-<details>
-<summary>  &nbsp;&nbsp;Puppetdove content!!!</summary><br>
-${\textsf{\color{#1F51FF} Art below is from me, as well as friends with fanarts!! this is a wip lol}}$
-</details>
-
-<p align="center">
-<img width="400" alt="image" src="https://github.com/WanderersWife/for-read-me/blob/62f774e42afe0b6f24e6e8ccce68e65c5f19b0ac/Untitled16_20261007182805.webp"/>
- <img width="300" alt="image" src="https://github.com/WanderersWife/WanderersWife/blob/59e56fcf7c2640ecee0372ae113e1d53543ce2e6/c19a3c84ce07ae2e8c1cd592e3729f2f.jpg"/>
-</p>
-
-<p align="center">
-<img width="400" alt="image" src=""/>
- <img width="400" alt="image" src="https://github.com/WanderersWife/for-read-me/blob/62f774e42afe0b6f24e6e8ccce68e65c5f19b0ac/images_39.webp"/>
-</p>
-
-<p align="center">
-<img width="400" alt="image" src=""/>
- <img width="400" alt="image" src="https://github.com/WanderersWife/for-read-me/blob/62f774e42afe0b6f24e6e8ccce68e65c5f19b0ac/Tulaytullahs_Remembrance.webp"/>
-</p>
-
-<p align="center">
-<img width="400" alt="image" src=""/>
- <img width="400" alt="image" src="https://github.com/WanderersWife/for-read-me/blob/62f774e42afe0b6f24e6e8ccce68e65c5f19b0ac/e09c532c2fdf883b83a54db62744b6cb.webp"/>
-</p>
-
-<p align="center">
-<img width="300" alt="image" src="https://github.com/WanderersWife/for-read-me/blob/62f774e42afe0b6f24e6e8ccce68e65c5f19b0ac/Untitled27_20261010170328.webp"/>
- <img width="400" alt="image" src="https://github.com/WanderersWife/for-read-me/blob/62f774e42afe0b6f24e6e8ccce68e65c5f19b0ac/522ef230f7ed09542f797593630ac323_8801845013426622085.webp"/>
-</p>
-
-<p align="center">
-<img width="400" alt="image" src=""/>
- <img width="400" alt="image" src="https://github.com/WanderersWife/for-read-me/blob/62f774e42afe0b6f24e6e8ccce68e65c5f19b0ac/Wanderer_Character_Card.webp"/>
-</p>
-
-<p align="center">
-<img width="400" alt="image" src="https://github.com/WanderersWife/for-read-me/blob/62f774e42afe0b6f24e6e8ccce68e65c5f19b0ac/Untitled57_20261109123307%20(1).webp"/>
- <img width="400" alt="image" src="https://github.com/WanderersWife/for-read-me/blob/62f774e42afe0b6f24e6e8ccce68e65c5f19b0ac/Untitled61_20261114010016.webp"/>
-</p>
-
-<p align="center">
-<img width="500" alt="image" src="https://github.com/WanderersWife/for-read-me/blob/62f774e42afe0b6f24e6e8ccce68e65c5f19b0ac/Untitled274_20260724051155.webp"/>
- <img width="300" alt="image" src="https://github.com/WanderersWife/for-read-me/blob/62f774e42afe0b6f24e6e8ccce68e65c5f19b0ac/9tczdd33hm5c1.jpg"/>
-</p>
-
-<p align="center">
-<img width="400" alt="image" src="https://github.com/WanderersWife/for-read-me/blob/62f774e42afe0b6f24e6e8ccce68e65c5f19b0ac/Untitled1_20260905160215.webp"/>
- <img width="400" alt="image" src="https://github.com/WanderersWife/for-read-me/blob/62f774e42afe0b6f24e6e8ccce68e65c5f19b0ac/GC48KiNbAAA-wxf.jpg"/>
-</p>
-
-<p align="center">
-<img width="400" alt="image" src=""/>
- <img width="400" alt="image" src="https://github.com/WanderersWife/for-read-me/blob/62f774e42afe0b6f24e6e8ccce68e65c5f19b0ac/Namecard_Background_Wanderer_Drifter27s_Ballad.webp"/>
-</p>
-
-<p align="center">
-<img width="400" alt="image" src=""/>
- <img width="400" alt="image" src="https://github.com/WanderersWife/for-read-me/blob/62f774e42afe0b6f24e6e8ccce68e65c5f19b0ac/Peregrinus.webp"/>
-</p>
-
-<p align="center">
-<img width="400" alt="image" src="https://github.com/WanderersWife/for-read-me/blob/62f774e42afe0b6f24e6e8ccce68e65c5f19b0ac/Untitled44_20261029164157.webp"/>
- <img width="400" alt="image" src="https://github.com/WanderersWife/for-read-me/blob/62f774e42afe0b6f24e6e8ccce68e65c5f19b0ac/sticker_3.avif"/>
-</p>
-
-<p align="center">
-  <img width="700" src="https://github.com/WanderersWife/WanderersWife/blob/557be516172cbd6b2b0a9c46d604d88c5ab9c87a/tumblr_7e08af3b9a5e0c51f51dceb158b3b737_21993e2b_1280.webp">
-</p>
-
-<p align="center">
-<img width="400" alt="image" src="https://github.com/WanderersWife/for-read-me/blob/62f774e42afe0b6f24e6e8ccce68e65c5f19b0ac/Untitled57_20261109121751%20(1).webp"/>
- <img width="400" alt="image" src="https://github.com/WanderersWife/for-read-me/blob/62f774e42afe0b6f24e6e8ccce68e65c5f19b0ac/Untitled308_20260823224655.webp"/>
-</p>
-
-<p align="center">
-<img width="400" alt="image" src="https://github.com/WanderersWife/for-read-me/blob/62f774e42afe0b6f24e6e8ccce68e65c5f19b0ac/Untitled268_20260715232451.webp"/>
- <img width="400" alt="image" src="https://github.com/WanderersWife/for-read-me/blob/62f774e42afe0b6f24e6e8ccce68e65c5f19b0ac/Untitled20_20261002133148.webp"/>
-</p>
-
-<p align="center">
-<img width="400" alt="image" src="https://github.com/WanderersWife/for-read-me/blob/62f774e42afe0b6f24e6e8ccce68e65c5f19b0ac/Untitled367_20250905235325.webp"/>
- <img width="400" alt="image" src="https://github.com/WanderersWife/for-read-me/blob/62f774e42afe0b6f24e6e8ccce68e65c5f19b0ac/Untitled28_20260927074434.webp"/>
-</p>
-
-<p align="center">
-<img width="400" alt="image" src="https://github.com/WanderersWife/for-read-me/blob/62f774e42afe0b6f24e6e8ccce68e65c5f19b0ac/Khong_Co_Tieu_e347_20251208233436.webp"/>
- <img width="400" alt="image" src="https://github.com/WanderersWife/for-read-me/blob/62f774e42afe0b6f24e6e8ccce68e65c5f19b0ac/IMG_8798.webp"/>
-</p>
-
-<p align="center">
-<img width="400" alt="image" src="https://github.com/WanderersWife/for-read-me/blob/62f774e42afe0b6f24e6e8ccce68e65c5f19b0ac/IMG_5067.webp"/>
- <img width="400" alt="image" src="https://github.com/WanderersWife/for-read-me/blob/62f774e42afe0b6f24e6e8ccce68e65c5f19b0ac/scrila.webp"/>
-</p>
 
 <p align="center">
   <img width="700" src="https://github.com/WanderersWife/WanderersWife/blob/557be516172cbd6b2b0a9c46d604d88c5ab9c87a/tumblr_967f7042ac5625136b1d7838cf47e11c_0ce37b96_2048.gif.webp">
