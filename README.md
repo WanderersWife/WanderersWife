@@ -71,8 +71,8 @@ ${\textsf{\color{#6495ED} Wanderer kins int with EXTREME caution, dont act like 
  <div align="center">
 <details>
 <summary>  &nbsp;&nbsp;HEAVY DNI!</summary><br>
-${\textsf{\color{#6495ED} Scaralumi, scaraaether, ANY scara ships, but SCARALUMI specifically NEVER INT, you guys make me SO uncomf,}}$
-${\textsf{\color{#0047AB} The ship makes me physically ill and uncomfortable, and the shippers are toxic asf. Leave me alone.}}$
+${\textsf{\color{#6495ED} ANY Wanderer ships in general, HEAVYYYYYY DNI. I block freely.}}$
+${\textsf{\color{#0047AB} Dni if you openly call wanderer a "Twink" or "Tsundere". It makes me super uncomf.}}$
 ${\textsf{\color{#6495ED} And those who have a problem with me/have been harassing me, DNI. BLOCK ME. I DO NOT CARE. Leave me alone.}}$
 </details>
 
@@ -93,6 +93,12 @@ ${\textsf{\color{#6495ED} Anti Yumeshippers as a whole just dni.}}$
 
 <div align="center">
 <details>
+<summary>  &nbsp;&nbsp;why I love Wanderer!</summary><br>
+${\textsf{\color{#1F51FF} big yapping warning, will include a bunch of stuff!}}$
+</details>
+
+<div align="center">
+<details>
 <summary>  &nbsp;&nbsp;why do I yumeship!</summary><br>
 ${\textsf{\color{#0047AB} I yumeship as a coping mechanism! Wanderer is very personal to me in that regard.}}$
 ${\textsf{\color{#6495ED} It has saved my life, and the love feels very real to me!}}$
@@ -100,12 +106,6 @@ ${\textsf{\color{#0047AB} I find comfort in yumeshipping with Wanderer, he is my
 ${\textsf{\color{#6495ED} I am voidsharing, which means I prefer to not acknowledge my doubles.}}$
 ${\textsf{\color{#0047AB} I am a Riako, which means the love for Wanderer feels real.}}$
 ${\textsf{\color{#6495ED} I am soulbonded, which means I am spiritually bonded to Wanderer!}}$
-</details>
-
-<div align="center">
-<details>
-<summary>  &nbsp;&nbsp;why I love Wanderer!</summary><br>
-${\textsf{\color{#1F51FF} big yapping warning, will include a bunch of stuff!}}$
 </details>
 
 <div align="center">
