@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FWanderersWife&label=Little%20Doves&labelColor=%0000FF&countColor=%6495ED"/>
+  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FWanderersWife&label=Travelers&labelColor=%230000ff&countColor=%236495ed"/>
 </p>
 
 <p align="center"table>
