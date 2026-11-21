@@ -6,6 +6,10 @@
   <img src="https://github.com/WanderersWife/WanderersWife/blob/557be516172cbd6b2b0a9c46d604d88c5ab9c87a/Screenshot%202026-10-25%20014544.png"/>
 </p>
 
+<p align="center">
+  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FWanderersWife&label=Little%20Doves&labelColor=%0000FF&countColor=%6495ED"/>
+</p>
+
 <p align="center"table>
   <tr>
     <td><a href="https://wandererswifey.straw.page/"> Strawpage</a></td>
@@ -27,10 +31,6 @@
 
 <p align="center">
   <img width="700" src="https://github.com/WanderersWife/WanderersWife/blob/557be516172cbd6b2b0a9c46d604d88c5ab9c87a/tumblr_7e08af3b9a5e0c51f51dceb158b3b737_21993e2b_1280.webp">
-</p>
-
-<p align="center">
-  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FWanderersWife&label=Little%20Doves&labelColor=%0000FF&countColor=%6495ED"/>
 </p>
 
 <p align="center">
