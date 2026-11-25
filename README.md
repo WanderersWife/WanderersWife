@@ -12,10 +12,17 @@
 
 <p align="center"table>
   <tr>
-    <td><a href="https://wandererswifey.straw.page/"> Strawpage</a></td>
-    <td><a href="https://wandererswife.atabook.org/?page=1"> Atabook</a></td>
-    <td><a href="https://www.wattpad.com/story/417207126-about-my-yumeship"> About my Yumeship</a></td>
-    <td><a href="https://open.spotify.com/playlist/5aRACuZt1kolPsSgVdxKFo"> Yumeship playlist</a></td>
+    <td><a href="https://wandererswifey.straw.page/"> Straw</a></td>
+    <td><a href="https://wandererswife.atabook.org/?page=1"> Ata</a></td>
+    <td><a href="https://www.wattpad.com/story/417207126-about-my-yumeship"> Read abt my yume</a></td>
+    <td><a href="https://open.spotify.com/playlist/5aRACuZt1kolPsSgVdxKFo"> Yume playlist</a></td>
+  </tr>
+</table>
+
+<p align="center"table>
+  <tr>
+    <td><a href="https://github.com/PuppetDove"> Yume github</a></td>
+    <td><a href="https://github.com/FoundFamily"> Family github</a></td>
   </tr>
 </table>
 
@@ -28,13 +35,6 @@
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ubbbbg2hxuvmpeqk5pjm4ytzmm&cover_image=true&theme=novatorem&show_offline=true&background_color=3b39a7&interchange=false&profanity=false&hide_remaster=false&bar_color=5f82c8&bar_color_cover=true">
   </a>
 </p>
-
-<p align="center"table>
-  <tr>
-    <td><a href="https://github.com/PuppetDove"> Yumeship gh</a></td>
-    <td><a href="https://github.com/FoundFamily"> Family gh</a></td>
-  </tr>
-</table>
 
 <p align="center">
   <img width="700" src="https://github.com/WanderersWife/WanderersWife/blob/557be516172cbd6b2b0a9c46d604d88c5ab9c87a/tumblr_7e08af3b9a5e0c51f51dceb158b3b737_21993e2b_1280.webp">
