@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="700" src="https://github.com/WanderersWife/WanderersWife/blob/557be516172cbd6b2b0a9c46d604d88c5ab9c87a/tumblr_bb2623e90de82b44ec19fab3cfcf7279_5377e620_1280.gif.webp">
+  <img width="550" src="https://github.com/WanderersWife/WanderersWife/blob/f1bc788d5e012753559046dd1885893b0ce10afe/861233a2804a4a717d76f6a85f734f00.jpg">
 </p>
 
 <p align="center">
@@ -43,12 +43,12 @@
 </p>
 
 <p align="center">
-  <img width="700" src="https://github.com/WanderersWife/WanderersWife/blob/557be516172cbd6b2b0a9c46d604d88c5ab9c87a/tumblr_7e08af3b9a5e0c51f51dceb158b3b737_21993e2b_1280.webp">
+  <img width="700" src="https://github.com/WanderersWife/WanderersWife/blob/f1bc788d5e012753559046dd1885893b0ce10afe/tumblr_cfa579aa19b968befe92a4fdfe7dca35_d4f67e0d_1280.png">
 </p>
 
 <p align="center">
-<img width="136" alt="image" src="https://github.com/WanderersWife/for-read-me/blob/62f774e42afe0b6f24e6e8ccce68e65c5f19b0ac/pony-town-63-%20F_o!%20Voidsharing%20_3!-stand-hearts-blush-blinking-padded-ponyplush-4x.gif"/>
- <img width="150" alt="image" src="https://github.com/WanderersWife/for-read-me/blob/62f774e42afe0b6f24e6e8ccce68e65c5f19b0ac/pony-town-!-%20Haru!%20Sona!%20Wanderers%20wife!-kiss-blinking-padded-ponyplush-4x.gif"/>
+<img width="136" alt="image" src="https://github.com/WanderersWife/WanderersWife/blob/f1bc788d5e012753559046dd1885893b0ce10afe/pony-town-75-%20Kisses%20under%20the%20mistletoe-boop-sit-hearts-blush-blinking-padded-toy14-4x.gif"/>
+ <img width="150" alt="image" src="https://github.com/WanderersWife/WanderersWife/blob/f1bc788d5e012753559046dd1885893b0ce10afe/pony-town-!-%20Kissin%20kuni%20under%20the%20%F0%9F%8C%BF-boop-sit-hearts-blinking-padded-toy29-4x.gif"/>
 </p>
 
 <div align="center">
@@ -101,9 +101,9 @@ ${\textsf{\color{#6495ED} Anti Yumeshippers as a whole just dni.}}$
 </details>
 
 <p align="center">
-  <img width="700" src="https://github.com/WanderersWife/WanderersWife/blob/557be516172cbd6b2b0a9c46d604d88c5ab9c87a/tumblr_7e08af3b9a5e0c51f51dceb158b3b737_21993e2b_1280.webp">
+  <img width="700" src="https://github.com/WanderersWife/WanderersWife/blob/f1bc788d5e012753559046dd1885893b0ce10afe/tumblr_cfa579aa19b968befe92a4fdfe7dca35_d4f67e0d_1280.png">
 </p>
 
 <p align="center">
-  <img width="700" src="https://github.com/WanderersWife/WanderersWife/blob/557be516172cbd6b2b0a9c46d604d88c5ab9c87a/tumblr_967f7042ac5625136b1d7838cf47e11c_0ce37b96_2048.gif.webp">
+  <img width="700" src="https://github.com/WanderersWife/WanderersWife/blob/f1bc788d5e012753559046dd1885893b0ce10afe/K9dj9a.gif">
 </p>
